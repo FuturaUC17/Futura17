@@ -698,11 +698,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-2n .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-2n .dropdown-item,
 #ext_menu-2n .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-2n .link:hover,
 #ext_menu-2n .dropdown-item:hover,
@@ -803,11 +803,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-3x .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-3x .dropdown-item,
 #ext_menu-3x .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-3x .link:hover,
 #ext_menu-3x .dropdown-item:hover,
@@ -909,11 +909,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-3v .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-3v .dropdown-item,
 #ext_menu-3v .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-3v .link:hover,
 #ext_menu-3v .dropdown-item:hover,
@@ -1015,11 +1015,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-3z .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-3z .dropdown-item,
 #ext_menu-3z .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-3z .link:hover,
 #ext_menu-3z .dropdown-item:hover,
@@ -1121,11 +1121,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-41 .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-41 .dropdown-item,
 #ext_menu-41 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-41 .link:hover,
 #ext_menu-41 .dropdown-item:hover,
@@ -1226,11 +1226,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-45 .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-45 .dropdown-item,
 #ext_menu-45 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-45 .link:hover,
 #ext_menu-45 .dropdown-item:hover,
@@ -1331,11 +1331,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-47 .link {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 #ext_menu-47 .dropdown-item,
 #ext_menu-47 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.245rem;
 }
 #ext_menu-47 .link:hover,
 #ext_menu-47 .dropdown-item:hover,
@@ -1373,4 +1373,109 @@ h6,
 #ext_menu-47 .link[aria-expanded="true"],
 #ext_menu-47 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+
+
+#ext_menu-49 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-49 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#ext_menu-49 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-49 .close-icon::before,
+#ext_menu-49 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-49 .link,
+#ext_menu-49 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#ext_menu-49 .link {
+  font-size: 1.15rem;
+}
+#ext_menu-49 .dropdown-item,
+#ext_menu-49 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#ext_menu-49 .link:hover,
+#ext_menu-49 .dropdown-item:hover,
+#ext_menu-49 .link:focus,
+#ext_menu-49 .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-49 .link[aria-expanded="true"],
+#ext_menu-49 .dropdown-menu {
+  background: #171c2c;
+}
+#ext_menu-49 .nav-dropdown-sm .link:focus,
+#ext_menu-49 .nav-dropdown-sm .link:hover,
+#ext_menu-49 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-49 .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#ext_menu-49 .navbar,
+#ext_menu-49 .nav-dropdown-sm,
+#ext_menu-49 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-49 .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#ext_menu-49 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-49 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-49 .bg-color.transparent.opened .link:hover,
+#ext_menu-49 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-49 .link[aria-expanded="true"],
+#ext_menu-49 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extShop1-4a .galleryItem h4:hover {
+  color: #c0a375;
+}
+#extShop1-4a .mbr-gallery-filter ul li.active {
+  color: #c0a375;
+}
+#extShop1-4a .mbr-gallery-filter ul li:hover {
+  color: #c0a375;
+}
+#extShop1-4a .mbr-gallery-filter ul li:before {
+  background: #c0a375;
+}
+#extShop1-4a .min-toggle:hover,
+#extShop1-4a .max-toggle:hover {
+  background-color: #c0a375;
+}
+#extShop1-4a .shop-title {
+  font-family: Montserrat;
+}
+#extShop1-4a .categories-titles .mbr-gallery-filter ul li {
+  font-family: Montserrat;
+}
+#extShop1-4a .max-input {
+  font-family: Montserrat;
+}
+#extShop1-4a .min-input {
+  font-family: Montserrat;
+}
+#extShop1-4a .item-title {
+  font-family: Montserrat;
+}
+#extShop1-4a .item-subtitle {
+  font-family: Lora;
+}
+#extShop1-4a .card-description {
+  font-family: Raleway;
+}
+#extShop1-4a .shop-item-price {
+  font-family: Montserrat;
 }
