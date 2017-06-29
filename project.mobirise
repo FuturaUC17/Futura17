@@ -60,8 +60,8 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-74-2000x1333.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-75-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
