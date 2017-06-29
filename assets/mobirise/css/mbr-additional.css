@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 
 
 
@@ -674,10 +673,6 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
-#header4-3b .mbr-section-title {
-  font-family: 'PT Serif', serif;
-  text-align: center;
-}
 #ext_menu-2n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -740,6 +735,14 @@ h6,
 #ext_menu-2n .link[aria-expanded="true"],
 #ext_menu-2n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extSlider1-4c H2 {
+  font-family: 'Merriweather', serif;
+  color: #cccccc;
+  font-size: 84px;
+}
+#extSlider1-4c SPAN {
+  color: #efefef;
 }
 
 

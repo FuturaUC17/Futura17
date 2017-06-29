@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 155,
+    "uniqCompNum": 157,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -43,43 +43,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header4-3b",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-76-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -177,6 +140,123 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page7.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extSlider1",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "5",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/intercontinental-buckhead-atlanta-exterior-night-low-1-2000x1216.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">FUTURA17&nbsp;<br>CONFERENCE&nbsp;<br>BREAK-OUT SESSIONS</span>",
+                "showText": false,
+                "text": "Fullscreen slider with breath-taking pan & zoom also known as \"KenBurns\" effect and parallax transition between slides.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-77-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
+                "showText": false,
+                "text": "Fullscreen video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-78-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-79-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-80-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-81-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "extSlider1-4c",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#cccccc",
+              "font-size": "84px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
