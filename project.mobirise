@@ -147,6 +147,17 @@
             "Extension"
           ],
           "_name": "extSlider1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#cccccc",
+              "font-size": "84px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -154,7 +165,7 @@
             "timeout": "5",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/intercontinental-buckhead-atlanta-exterior-night-low-1-2000x1216.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -185,7 +196,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/adobe-spark-78-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-83-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -213,7 +224,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/adobe-spark-80-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-82-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -226,8 +237,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/adobe-spark-81-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/adobe-spark-86-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -245,18 +256,7 @@
             "showBullets": false
           },
           "_anchor": "extSlider1-4c",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "color": "#cccccc",
-              "font-size": "84px"
-            },
-            "SPAN": {
-              "color": "#efefef"
-            }
-          }
+          "articleLayout": false
         }
       ]
     },
@@ -442,6 +442,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000-800x800.jpg",
@@ -451,12 +452,12 @@
                 "itemSubtitle": "By: Cassie Corbett",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VALIDATIONS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VALIDATIONS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": true,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-60-2000x2000-800x800.jpg",
@@ -467,12 +468,12 @@
                 "itemSubtitle": "By: Cassie / Travis",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>",
-                "active": true
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/mapservices-1-2000x2000-800x800.jpg",
@@ -482,12 +483,12 @@
                 "itemSubtitle": "By: Travis Durrance",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MAP SERVICES</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MAP SERVICES</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-43-2000x2000-800x800.jpg",
@@ -497,8 +498,7 @@
                 "itemSubtitle": "By: Cassie Corbett",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MOST COMMON ISSUES</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MOST COMMON ISSUES</a>"
               },
               {
                 "itemPriceTitle": "From: ",
@@ -720,6 +720,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-46-2000x2000-800x800.jpg",
@@ -729,12 +730,12 @@
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "This year we will cover various topics on how to make staking your friend.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-47-2000x2000-800x800.jpg",
@@ -744,12 +745,12 @@
                 "itemSubtitle": "By: Jessica Su &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the job class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">WORK MANAGEMENT</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">WORK MANAGEMENT</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-48-2000x2000-800x800.jpg",
@@ -759,12 +760,12 @@
                 "itemSubtitle": "By: Drew Henry &amp; Jessica Su",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the work plan jobs",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">UG WORK PLAN JOBS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">UG WORK PLAN JOBS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-49-2000x2000-800x800.jpg",
@@ -774,12 +775,12 @@
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the work plan jobs class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OH WORK PLAN JOBS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OH WORK PLAN JOBS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-50-2000x2000-800x800.jpg",
@@ -789,8 +790,7 @@
                 "itemSubtitle": "By: Brant / Scope / Jody &nbsp;/ Drew &nbsp;/ Jessica&nbsp;",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the Open Forum Class",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
               }
             ],
             "bgColor": "#fff",
@@ -1293,6 +1293,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-62-2000x2000-800x800.jpg",
@@ -1302,12 +1303,12 @@
                 "itemSubtitle": "By: AJ Cerilli",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">AUTHORIZING FP MAPS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">AUTHORIZING FP MAPS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-63-2000x2000-800x800.jpg",
@@ -1317,12 +1318,12 @@
                 "itemSubtitle": "By: Nick Gwinn &amp; AJ Cerilli",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MANAGING PHOTOS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MANAGING PHOTOS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-64-2000x2000-800x800.jpg",
@@ -1332,12 +1333,12 @@
                 "itemSubtitle": "By: Nick Gwinn",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">IMAGERY</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">IMAGERY</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-65-2000x2000-800x800.jpg",
@@ -1347,12 +1348,12 @@
                 "itemSubtitle": "By: Nick Gwinn",
                 "itemPrice": "",
                 "itemDescription": "This would be a brief description of the class",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-66-2000x2000-800x800.jpg",
@@ -1362,8 +1363,7 @@
                 "itemSubtitle": "By: Nick / AJ / Josh",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
               }
             ],
             "bgColor": "#fff",
@@ -1568,6 +1568,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-68-2000x2000-800x800.jpg",
@@ -1577,12 +1578,12 @@
                 "itemSubtitle": "By: Brad Mayfield",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">DASHBOARD PLANNING</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">DASHBOARD PLANNING</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-70-2000x2000-800x800.jpg",
@@ -1592,8 +1593,7 @@
                 "itemSubtitle": "By: Someone",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VISUAL INSPECTIONS</a>",
-                "active": false
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VISUAL INSPECTIONS</a>"
               }
             ],
             "bgColor": "#fff",
