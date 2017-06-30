@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 157,
+    "uniqCompNum": 158,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -65,14 +65,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -104,11 +104,11 @@
           "_anchor": "ext_menu-2n",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -139,7 +139,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -289,14 +289,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -328,11 +328,11 @@
           "_anchor": "ext_menu-3x",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -363,7 +363,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -395,16 +395,30 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#000000"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#999999"
             },
             ".card-description": {
               "font-family": "@textFont"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -415,8 +429,8 @@
           "_name": "extShop1",
           "_params": {
             "showSidebar": false,
-            "showSortButtons": true,
-            "paddingTop": 2,
+            "showSortButtons": false,
+            "paddingTop": "5",
             "paddingBottom": 2,
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
@@ -429,7 +443,7 @@
                 "caption": "Type caption here",
                 "active": false,
                 "tags": "Awesome",
-                "bestSeller": true,
+                "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/newgis-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/newgis-1-2000x2000.jpg",
                 "onsale": "-50%",
@@ -457,7 +471,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-60-2000x2000-800x800.jpg",
@@ -475,7 +489,7 @@
                 "caption": "Type caption here",
                 "active": false,
                 "tags": "Creative",
-                "bestSeller": true,
+                "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/mapservices-1-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mapservices-1-2000x2000.jpg",
                 "onsale": "-50%",
@@ -509,21 +523,36 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-44-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(44)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Server Architecture",
+                "itemTitle": "Server Architecture<br><br>",
                 "itemSubtitle": "By: Ryszard Tyrtania",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">SERVER ARCHITECTURE</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": true,
+                "tags": "Awesome",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-90-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(90)-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Closing the Gaps in Asset Management<br><br>",
+                "itemSubtitle": "By: Michael Christenson",
+                "itemPrice": "",
+                "itemDescription": "This will be a brief description of the class.",
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">ASSET MANAGEMENT</a>"
               }
             ],
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showTitle": true,
             "showBestSellers": false,
             "priceRange": false,
             "filter": false
           },
           "_anchor": "extShop1-43",
-          "title": "Shop",
+          "title": "MAPPING",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
@@ -566,14 +595,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -605,11 +634,11 @@
           "_anchor": "ext_menu-3v",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -640,7 +669,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -672,17 +701,27 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
+              "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
               "font-family": "@textFont"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
+            },
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -694,7 +733,7 @@
           "_params": {
             "showSidebar": false,
             "showSortButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "5",
             "paddingBottom": 2,
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
@@ -707,7 +746,7 @@
                 "caption": "Type caption here",
                 "active": false,
                 "tags": "Awesome",
-                "bestSeller": true,
+                "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-45-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(45)-2000x2000.jpg",
                 "onsale": "-50%",
@@ -765,9 +804,9 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Creative",
-                "bestSeller": true,
+                "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-49-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(49)-2000x2000.jpg",
                 "onsale": "-50%",
@@ -800,7 +839,7 @@
             "filter": true
           },
           "_anchor": "extShop1-3w",
-          "title": "Shop",
+          "title": "STAKING",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
@@ -842,14 +881,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -881,11 +920,11 @@
           "_anchor": "ext_menu-3z",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -916,7 +955,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -948,17 +987,25 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
+              "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
               "font-family": "@textFont"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -970,7 +1017,7 @@
           "_params": {
             "showSidebar": false,
             "showSortButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "5",
             "paddingBottom": 2,
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
@@ -987,7 +1034,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-51-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(51)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "What's New In OMS",
+                "itemTitle": "What's New In OMS<br><br>",
                 "itemSubtitle": "By: Joseph Coleman",
                 "itemPrice": "",
                 "itemDescription": "This would be a brief description of the class.<br><br><br>",
@@ -1002,7 +1049,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-52-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(52)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Futura IVR",
+                "itemTitle": "Futura IVR<br><br>",
                 "itemSubtitle": "By: Hunter Guckert",
                 "itemPrice": "",
                 "itemDescription": "This would be a brief description about the Validations class.",
@@ -1011,13 +1058,13 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-53-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(53)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "OMS Tips &amp; Tricks<br>Hidden Tools",
+                "itemTitle": "Tips &amp; Tricks<br>Hidden Tools",
                 "itemSubtitle": "By: Donald Vick",
                 "itemPrice": "",
                 "itemDescription": "This would be a breif description of the class.",
@@ -1032,7 +1079,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-54-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(54)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "OMS Client Monitor",
+                "itemTitle": "OMS Client Monitor<br><br>",
                 "itemSubtitle": "By: Donald Vick",
                 "itemPrice": "",
                 "itemDescription": "This would be a brief description of the OPen Forum class.",
@@ -1097,7 +1144,7 @@
             "filter": false
           },
           "_anchor": "extShop1-40",
-          "title": "MAPPING",
+          "title": "OMS",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
@@ -1139,14 +1186,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1178,11 +1225,11 @@
           "_anchor": "ext_menu-41",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1213,7 +1260,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1245,17 +1292,25 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
+              "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
               "font-family": "@textFont"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
+            },
+            "H3": {
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1267,7 +1322,7 @@
           "_params": {
             "showSidebar": false,
             "showSortButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "5",
             "paddingBottom": 2,
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
@@ -1353,13 +1408,13 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-66-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(66)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Field Pro Open Forum",
+                "itemTitle": "Field Pro Open <br>Forum<br>",
                 "itemSubtitle": "By: Nick / AJ / Josh",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
@@ -1373,7 +1428,7 @@
             "filter": false
           },
           "_anchor": "extShop1-44",
-          "title": "Shop",
+          "title": "FIELD PRO",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
@@ -1415,14 +1470,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1454,11 +1509,11 @@
           "_anchor": "ext_menu-45",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1489,7 +1544,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1521,16 +1576,26 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont"
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
               "font-family": "@textFont"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
+            },
+            ".card-description P": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1542,8 +1607,8 @@
           "_params": {
             "showSidebar": false,
             "showSortButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "filterBgColor": false,
             "fontHoverColor": "@primaryColor",
             "mainTitle": "@titleFont",
@@ -1553,16 +1618,16 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Awesome",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-67-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(67)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-88-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(88)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Catalyst Configuration",
                 "itemSubtitle": "By: Cassie Corbett",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "<p>This will be a brief description of the class.</p>",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">CATALYST CONFIGURATION</a>"
               },
               {
@@ -1571,8 +1636,8 @@
                 "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-68-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(68)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-87-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(87)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Dashboard Planning",
                 "itemSubtitle": "By: Brad Mayfield",
@@ -1594,6 +1659,21 @@
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VISUAL INSPECTIONS</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Awesome",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-89-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(89)-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Mobile Workforce &amp; Field Pro",
+                "itemSubtitle": "By: Someone",
+                "itemPrice": "",
+                "itemDescription": "This will be a brief description of the class.",
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MOBILE WORKFORCE</a>"
               }
             ],
             "bgColor": "#fff",
@@ -1603,7 +1683,7 @@
             "filter": false
           },
           "_anchor": "extShop1-46",
-          "title": "Shop",
+          "title": "CATALYST",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
@@ -1645,14 +1725,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "1.15rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.245rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1684,11 +1764,11 @@
           "_anchor": "ext_menu-47",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.15",
+            "fontSize": "0.95",
             "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1719,7 +1799,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA17&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1731,7 +1811,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-71-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-92-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
