@@ -830,16 +830,16 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-43 .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-43 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-43 .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-43 .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-43 .item-title {
   font-family: 'Merriweather', serif;
@@ -850,10 +850,10 @@ h6,
   color: #999999;
 }
 #extShop1-43 .card-description {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
 }
 #extShop1-43 .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-43 .btn {
   font-family: 'Merriweather', serif;
@@ -961,10 +961,10 @@ h6,
   font-family: Montserrat;
 }
 #extShop1-3w .item-title {
-  font-family: 'Merriweather', serif;
+  font-family: Montserrat;
 }
 #extShop1-3w .item-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: Lora;
 }
 #extShop1-3w .card-description {
   font-family: Raleway;
@@ -1064,16 +1064,16 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-40 .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-40 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-40 .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-40 .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-40 .item-title {
   font-family: 'Merriweather', serif;
@@ -1082,10 +1082,10 @@ h6,
   font-family: 'Merriweather', serif;
 }
 #extShop1-40 .card-description {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
 }
 #extShop1-40 .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-40 H3 {
   font-size: 20px;
@@ -1178,16 +1178,16 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-44 .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-44 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-44 .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-44 .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-44 .item-title {
   font-family: 'Merriweather', serif;
@@ -1196,10 +1196,10 @@ h6,
   font-family: 'Merriweather', serif;
 }
 #extShop1-44 .card-description {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
 }
 #extShop1-44 .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-44 H3 {
   font-size: 20px;
@@ -1293,16 +1293,16 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-46 .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .item-title {
   font-family: 'Merriweather', serif;
@@ -1311,10 +1311,10 @@ h6,
   font-family: 'Merriweather', serif;
 }
 #extShop1-46 .card-description {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
 }
 #extShop1-46 .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .card-description P {
   font-family: 'Merriweather', serif;
@@ -1385,5 +1385,70 @@ h6,
 }
 #ext_menu-47 .link[aria-expanded="true"],
 #ext_menu-47 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+
+
+#ext_menu-4e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4e .navbar-caption {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#ext_menu-4e .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4e .close-icon::before,
+#ext_menu-4e .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4e .link,
+#ext_menu-4e .dropdown-item {
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+}
+#ext_menu-4e .link {
+  font-size: 0.95rem;
+}
+#ext_menu-4e .dropdown-item,
+#ext_menu-4e .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-4e .link:hover,
+#ext_menu-4e .dropdown-item:hover,
+#ext_menu-4e .link:focus,
+#ext_menu-4e .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-4e .link[aria-expanded="true"],
+#ext_menu-4e .dropdown-menu {
+  background: #171c2c;
+}
+#ext_menu-4e .nav-dropdown-sm .link:focus,
+#ext_menu-4e .nav-dropdown-sm .link:hover,
+#ext_menu-4e .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4e .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#ext_menu-4e .navbar,
+#ext_menu-4e .nav-dropdown-sm,
+#ext_menu-4e .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4e .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#ext_menu-4e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4e .bg-color.transparent.opened .link:hover,
+#ext_menu-4e .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-4e .link[aria-expanded="true"],
+#ext_menu-4e .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
