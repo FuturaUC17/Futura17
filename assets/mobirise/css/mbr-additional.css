@@ -1110,6 +1110,7 @@ h6,
 
 
 
+
 #ext_menu-41 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1203,13 +1204,13 @@ h6,
   font-family: Montserrat;
 }
 #extShop1-44 .item-title {
-  font-family: Montserrat;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #extShop1-44 .item-subtitle {
-  font-family: Lora;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-44 .card-description {
-  font-family: Raleway;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-44 .shop-item-price {
   font-family: Montserrat;
@@ -1218,7 +1219,7 @@ h6,
   font-size: 20px;
 }
 #extShop1-44 .btn {
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 
