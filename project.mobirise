@@ -385,7 +385,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000-800x800.jpg",
@@ -446,11 +446,11 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-44-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(44)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark117-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark117-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Server Architecture<br>",
                 "itemSubtitle": "By: Ryszard Tyrtania",
@@ -631,15 +631,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -675,11 +675,11 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Awesome",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-45-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(45)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark116-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark116-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Intro to Staking in 3.3",
                 "itemSubtitle": "By: Drew Henry &amp; Jessica Su",
@@ -735,7 +735,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-49-2000x2000-800x800.jpg",
@@ -753,8 +753,8 @@
                 "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-50-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(50)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark115-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark115-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Staking Open Forum",
                 "itemSubtitle": "By: Brant / Scope / Jody &nbsp;/ Drew &nbsp;/ Jessica&nbsp;",
@@ -919,15 +919,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -991,7 +991,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-53-2000x2000-800x800.jpg",
@@ -1039,8 +1039,8 @@
                 "active": false,
                 "tags": "Awesome",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-56-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(56)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark112-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark112-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "OMS Open Forum",
                 "itemSubtitle": "By: Donald / Hunter / Joseph",
@@ -1051,11 +1051,11 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Creative",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-57-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(57)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark113-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark113-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Outage Info In / Info Out",
                 "itemSubtitle": "By: Hunter Guckert",
@@ -1226,15 +1226,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -1268,11 +1268,11 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Awesome",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-61-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(61)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark111-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark111-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Field Pro Basic",
                 "itemSubtitle": "By: Josh Coleman",
@@ -1301,8 +1301,8 @@
                 "active": false,
                 "tags": "Creative",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-63-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(63)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark1213-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark1213-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Managing Photos",
                 "itemSubtitle": "By: Nick Gwinn &amp; AJ Cerilli",
@@ -1343,7 +1343,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-66-2000x2000-800x800.jpg",
