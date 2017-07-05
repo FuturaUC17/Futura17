@@ -1,7 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
 
 
 
@@ -677,7 +680,8 @@ h6,
 }
 #ext_menu-2n .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-2n .navbar-toggler {
   color: #ffffff;
@@ -689,14 +693,14 @@ h6,
 #ext_menu-2n .link,
 #ext_menu-2n .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-2n .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-2n .dropdown-item,
 #ext_menu-2n .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-2n .link:hover,
 #ext_menu-2n .dropdown-item:hover,
@@ -735,6 +739,12 @@ h6,
 #ext_menu-2n .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-4i .mbr-section-title {
+  font-family: 'Merriweather', serif;
+  font-size: 72px;
+}
+
+
 
 
 
@@ -746,7 +756,8 @@ h6,
 }
 #ext_menu-3x .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-3x .navbar-toggler {
   color: #ffffff;
@@ -758,14 +769,14 @@ h6,
 #ext_menu-3x .link,
 #ext_menu-3x .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-3x .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-3x .dropdown-item,
 #ext_menu-3x .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-3x .link:hover,
 #ext_menu-3x .dropdown-item:hover,
@@ -833,25 +844,31 @@ h6,
   font-family: Montserrat;
 }
 #extShop1-43 .item-title {
-  font-family: Montserrat;
+  font-family: 'Roboto Condensed', sans-serif;
   color: #000000;
 }
 #extShop1-43 .item-subtitle {
-  font-family: Lora;
+  font-family: 'Roboto', sans-serif;
   color: #999999;
+  font-size: 18px;
 }
 #extShop1-43 .card-description {
-  font-family: Raleway;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
 }
 #extShop1-43 .shop-item-price {
   font-family: Montserrat;
 }
 #extShop1-43 .btn {
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
 }
 #extShop1-43 H3 {
   text-align: left;
   font-size: 20px;
+  font-family: 'Merriweather', serif;
+}
+#extShop1-43 .item-title SPAN {
   font-family: 'Merriweather', serif;
 }
 
@@ -865,7 +882,8 @@ h6,
 }
 #ext_menu-3v .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-3v .navbar-toggler {
   color: #ffffff;
@@ -877,14 +895,14 @@ h6,
 #ext_menu-3v .link,
 #ext_menu-3v .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-3v .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-3v .dropdown-item,
 #ext_menu-3v .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-3v .link:hover,
 #ext_menu-3v .dropdown-item:hover,
@@ -980,7 +998,8 @@ h6,
 }
 #ext_menu-3z .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-3z .navbar-toggler {
   color: #ffffff;
@@ -992,14 +1011,14 @@ h6,
 #ext_menu-3z .link,
 #ext_menu-3z .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-3z .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-3z .dropdown-item,
 #ext_menu-3z .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-3z .link:hover,
 #ext_menu-3z .dropdown-item:hover,
@@ -1094,7 +1113,8 @@ h6,
 }
 #ext_menu-41 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-41 .navbar-toggler {
   color: #ffffff;
@@ -1106,14 +1126,14 @@ h6,
 #ext_menu-41 .link,
 #ext_menu-41 .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-41 .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-41 .dropdown-item,
 #ext_menu-41 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-41 .link:hover,
 #ext_menu-41 .dropdown-item:hover,
@@ -1209,7 +1229,8 @@ h6,
 }
 #ext_menu-45 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-45 .navbar-toggler {
   color: #ffffff;
@@ -1221,14 +1242,14 @@ h6,
 #ext_menu-45 .link,
 #ext_menu-45 .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-45 .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-45 .dropdown-item,
 #ext_menu-45 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-45 .link:hover,
 #ext_menu-45 .dropdown-item:hover,
@@ -1321,7 +1342,8 @@ h6,
 }
 #ext_menu-47 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-47 .navbar-toggler {
   color: #ffffff;
@@ -1333,14 +1355,14 @@ h6,
 #ext_menu-47 .link,
 #ext_menu-47 .dropdown-item {
   color: #ffffff;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #ext_menu-47 .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-47 .dropdown-item,
 #ext_menu-47 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-47 .link:hover,
 #ext_menu-47 .dropdown-item:hover,
