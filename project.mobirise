@@ -321,13 +321,13 @@
               "color": "#000000"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#999999",
               "font-size": "18px"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "font-size": "18px"
             },
@@ -1510,11 +1510,11 @@
             },
             ".item-title": {
               "font-family": "@titleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
               "font-family": "@subtitleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
               "font-family": "@textFont"
@@ -1523,12 +1523,12 @@
               "font-family": "@titleFont"
             },
             ".card-description P": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".btn": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1551,7 +1551,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Awesome",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-88-2000x2000-800x800.jpg",
@@ -1566,7 +1566,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-87-2000x2000-800x800.jpg",
