@@ -149,13 +149,15 @@
           "_name": "extSlider1",
           "_styles": {
             "H2": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "color": "#cccccc",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff",
               "font-size": "84px"
             },
             "SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_params": {
@@ -173,7 +175,7 @@
                 "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<span style=\"font-weight: normal;\">FUTURA17&nbsp;<br>CONFERENCE&nbsp;<br>BREAK-OUT SESSIONS</span>",
+                "title": "FUTURA17&nbsp;<br>CONFERENCE&nbsp;<br>BREAK-OUT SESSIONS",
                 "showText": false,
                 "text": "Fullscreen slider with breath-taking pan & zoom also known as \"KenBurns\" effect and parallax transition between slides.",
                 "showButtons": false,
@@ -395,12 +397,12 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "color": "#000000"
             },
             ".item-subtitle": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "color": "#999999"
             },
@@ -508,7 +510,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-43-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(43)-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Most Commonly Reported Support Issues",
+                "itemTitle": "Most Commonly Reported Support Issues<br><br>",
                 "itemSubtitle": "By: Cassie Corbett",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
@@ -987,11 +989,11 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
@@ -1292,11 +1294,11 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {
@@ -1576,11 +1578,11 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Merriweather', serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".card-description": {

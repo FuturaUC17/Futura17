@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -737,12 +739,13 @@ h6,
   color: #c0a375!important;
 }
 #extSlider1-4c H2 {
-  font-family: 'Merriweather', serif;
-  color: #cccccc;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
   font-size: 84px;
 }
 #extSlider1-4c SPAN {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -830,30 +833,30 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-43 .shop-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-43 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-43 .max-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-43 .min-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-43 .item-title {
-  font-family: 'Merriweather', serif;
+  font-family: Montserrat;
   color: #000000;
 }
 #extShop1-43 .item-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: Lora;
   color: #999999;
 }
 #extShop1-43 .card-description {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-43 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-43 .btn {
   font-family: 'Merriweather', serif;
@@ -1064,28 +1067,28 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-40 .shop-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-40 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-40 .max-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-40 .min-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-40 .item-title {
-  font-family: 'Merriweather', serif;
+  font-family: Montserrat;
 }
 #extShop1-40 .item-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: Lora;
 }
 #extShop1-40 .card-description {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-40 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-40 H3 {
   font-size: 20px;
@@ -1178,28 +1181,28 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-44 .shop-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .max-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .min-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .item-title {
-  font-family: 'Merriweather', serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .item-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: Lora;
 }
 #extShop1-44 .card-description {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-44 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 H3 {
   font-size: 20px;
@@ -1293,28 +1296,28 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-46 .shop-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .max-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .min-input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .item-title {
-  font-family: 'Merriweather', serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .item-subtitle {
-  font-family: 'Merriweather', serif;
+  font-family: Lora;
 }
 #extShop1-46 .card-description {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-46 .shop-item-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-46 .card-description P {
   font-family: 'Merriweather', serif;
