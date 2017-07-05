@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "Staking.html",
+    "currentPage": "OMS.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -919,15 +919,16 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "@textFont"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
@@ -936,8 +937,8 @@
               "font-size": "20px"
             },
             ".btn": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
