@@ -66,14 +66,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -105,11 +105,11 @@
           "_anchor": "ext_menu-2n",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -210,14 +210,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -249,11 +249,11 @@
           "_anchor": "ext_menu-3x",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -266,12 +266,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -279,8 +280,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
@@ -316,7 +316,7 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "color": "#000000"
             },
@@ -385,7 +385,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000-800x800.jpg",
@@ -461,7 +461,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Awesome",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-90-2000x2000-800x800.jpg",
@@ -525,14 +525,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -564,11 +564,11 @@
           "_anchor": "ext_menu-3v",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -581,12 +581,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -594,8 +595,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
@@ -812,14 +812,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -851,11 +851,11 @@
           "_anchor": "ext_menu-3z",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -868,12 +868,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -881,8 +882,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
@@ -1118,14 +1118,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1157,11 +1157,11 @@
           "_anchor": "ext_menu-41",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1174,12 +1174,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1187,8 +1188,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
@@ -1403,14 +1403,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1442,11 +1442,11 @@
           "_anchor": "ext_menu-45",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1459,12 +1459,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1472,8 +1473,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
@@ -1659,14 +1659,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-family": "'Roboto Condensed', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1698,11 +1698,11 @@
           "_anchor": "ext_menu-47",
           "_params": {
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "0.9",
             "fontName": {
-              "name": "Roboto Condensed",
-              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "css": "'Roboto Condensed', sans-serif"
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1715,12 +1715,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/capture-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1728,8 +1729,7 @@
               "name": "globe",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
