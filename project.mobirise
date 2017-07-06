@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "FieldPro.html",
+    "currentPage": "Staking.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -631,15 +631,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
+              "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont",
+              "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "@textFont",
+              "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -684,7 +684,7 @@
                 "itemTitle": "Intro to Staking in 3.3",
                 "itemSubtitle": "By: Drew Henry &amp; Jessica Su",
                 "itemPrice": "",
-                "itemDescription": "Here is a brief description of what the class will be about.",
+                "itemDescription": "A class created by stakers, for stakers. This class reviews the basic tools and concepts used for staking jobs in our software. For audience members who are already familiar with Futura Stake, we will highlight the differences between previous versions and 3.3.1.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">INTRO TO 3.3</a>"
               },
               {
@@ -714,7 +714,7 @@
                 "itemTitle": "Staking &amp; Work Management",
                 "itemSubtitle": "By: Jessica Su &amp; Brant Hood",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the job class.",
+                "itemDescription": "Managers and supervisors will enjoy this class. In this class we are  showcasing the enhancements made between Futura Stake 3.3.1 and SEDC’s v37 UPN and Work Management. The audience will discover new potential workflows and many new features.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">WORK MANAGEMENT</a>"
               },
               {
@@ -729,7 +729,7 @@
                 "itemTitle": "UG Work Plan Jobs",
                 "itemSubtitle": "By: Drew Henry &amp; Jessica Su",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the work plan jobs",
+                "itemDescription": "One of our stakers will be demonstrating an advanced underground design. Any stakers interested in learning more about using Favorites, staking Open Points, using the Offset tool to stake underground conductors, and drawing a large job in a short amount of time will benefit from this class.s",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">UG WORK PLAN JOBS</a>"
               },
               {
@@ -744,7 +744,7 @@
                 "itemTitle": "OH Work Plan Jobs",
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the work plan jobs class.",
+                "itemDescription": "Another of our stakers will be demonstrating an advanced overhead job consisting of rerouting, rephasing and resizing of existing lines.  This class will focus on how to handle a mine field of complex design challenges in Futura's staking application.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OH WORK PLAN JOBS</a>"
               },
               {
@@ -759,7 +759,7 @@
                 "itemTitle": "Staking Open Forum",
                 "itemSubtitle": "By: Brant / Scope / Jody &nbsp;/ Drew &nbsp;/ Jessica&nbsp;",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the Open Forum Class",
+                "itemDescription": "For stakers and supervisors alike. In this session, Futura professionals will answer questions submitted by stakers from around the country. During this forum, the answers and examples given will be very specific to each question submitted.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
               }
             ],
