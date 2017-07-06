@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "index.html",
+    "currentPage": "Catalyst.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -147,6 +147,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "72px"
+            }
+          },
           "_anchor": "header1-4i",
           "_params": {
             "parallax": true,
@@ -169,14 +176,7 @@
           },
           "title": "Futura 17<br>Break-Out<br>Sessions<br>&nbsp;",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "72px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1520,7 +1520,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "@textFont"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
               "font-family": "@titleFont"
@@ -1743,6 +1744,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "header1-48",
           "_params": {
             "parallax": true,
@@ -1764,15 +1772,8 @@
             "showButtons": true
           },
           "title": "",
-          "text": "<br><br><br><span style=\"font-style: normal;\"><b>Let me know what you want the text to say here.</b></span><br><span style=\"font-style: normal;\"><b>Something about the presentations will be availabe shortly.<br></b></span><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> ",
-          "_styles": {
-            ".mbr-section-lead SPAN": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "60px"
-            }
-          }
+          "text": "<br><br><br><span style=\"font-style: normal;\"><b>Thank you for checking out our conference presentaions page. This presentation will be available the shortly after 6:00pm on the day it was presented.</b></span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "
         }
       ]
     }
