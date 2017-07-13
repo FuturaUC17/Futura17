@@ -79,13 +79,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -104,7 +104,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2n",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -113,7 +113,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -228,13 +228,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -247,13 +247,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-3x",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -375,7 +375,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Awesome",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/newgis-1-2000x2000-800x800.jpg",
@@ -451,7 +451,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark117-2000x2000-800x800.jpg",
@@ -543,13 +543,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -568,7 +568,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3v",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -577,7 +577,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -831,13 +831,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#1b044f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#260571!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#2b0680"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -850,13 +850,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-3z",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -1163,7 +1163,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-41",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -1449,7 +1449,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-45",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -1721,7 +1721,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-47",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",
@@ -1864,7 +1864,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4l",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#2b0680",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto Condensed",

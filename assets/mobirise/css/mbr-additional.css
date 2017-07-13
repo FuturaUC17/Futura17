@@ -738,19 +738,19 @@ h6,
 }
 #ext_menu-2n .link[aria-expanded="true"],
 #ext_menu-2n .dropdown-menu {
-  background: #171c2c;
+  background: #1b044f;
 }
 #ext_menu-2n .nav-dropdown-sm .link:focus,
 #ext_menu-2n .nav-dropdown-sm .link:hover,
 #ext_menu-2n .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2n .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #260571!important;
 }
 #ext_menu-2n .navbar,
 #ext_menu-2n .nav-dropdown-sm,
 #ext_menu-2n .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2n .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #2b0680;
 }
 #ext_menu-2n .bg-color.transparent .link {
   color: #ffffff;
@@ -818,19 +818,19 @@ h6,
 }
 #ext_menu-3x .link[aria-expanded="true"],
 #ext_menu-3x .dropdown-menu {
-  background: #171c2c;
+  background: #1b044f;
 }
 #ext_menu-3x .nav-dropdown-sm .link:focus,
 #ext_menu-3x .nav-dropdown-sm .link:hover,
 #ext_menu-3x .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-3x .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #260571!important;
 }
 #ext_menu-3x .navbar,
 #ext_menu-3x .nav-dropdown-sm,
 #ext_menu-3x .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-3x .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #2b0680;
 }
 #ext_menu-3x .bg-color.transparent .link {
   color: #ffffff;
@@ -845,7 +845,7 @@ h6,
 }
 #ext_menu-3x .link[aria-expanded="true"],
 #ext_menu-3x .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #000000!important;
 }
 #extShop1-43 .galleryItem h4:hover {
   color: #000000;
@@ -864,32 +864,32 @@ h6,
   background-color: #000000;
 }
 #extShop1-43 .shop-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-43 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-43 .max-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-43 .min-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-43 .item-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
   color: #000000;
 }
 #extShop1-43 .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
   color: #999999;
   font-size: 18px;
 }
 #extShop1-43 .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
   font-size: 18px;
 }
 #extShop1-43 .shop-item-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-43 .btn {
   font-family: 'Roboto', sans-serif;
@@ -945,19 +945,19 @@ h6,
 }
 #ext_menu-3v .link[aria-expanded="true"],
 #ext_menu-3v .dropdown-menu {
-  background: #171c2c;
+  background: #1b044f;
 }
 #ext_menu-3v .nav-dropdown-sm .link:focus,
 #ext_menu-3v .nav-dropdown-sm .link:hover,
 #ext_menu-3v .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-3v .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #260571!important;
 }
 #ext_menu-3v .navbar,
 #ext_menu-3v .nav-dropdown-sm,
 #ext_menu-3v .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-3v .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #2b0680;
 }
 #ext_menu-3v .bg-color.transparent .link {
   color: #ffffff;
@@ -991,28 +991,28 @@ h6,
   background-color: #000000;
 }
 #extShop1-3w .shop-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .max-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .min-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .item-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w .shop-item-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-3w H3 {
   font-size: 20px;
@@ -1062,19 +1062,19 @@ h6,
 }
 #ext_menu-3z .link[aria-expanded="true"],
 #ext_menu-3z .dropdown-menu {
-  background: #171c2c;
+  background: #1b044f;
 }
 #ext_menu-3z .nav-dropdown-sm .link:focus,
 #ext_menu-3z .nav-dropdown-sm .link:hover,
 #ext_menu-3z .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-3z .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #260571!important;
 }
 #ext_menu-3z .navbar,
 #ext_menu-3z .nav-dropdown-sm,
 #ext_menu-3z .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-3z .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #2b0680;
 }
 #ext_menu-3z .bg-color.transparent .link {
   color: #ffffff;
@@ -1089,7 +1089,7 @@ h6,
 }
 #ext_menu-3z .link[aria-expanded="true"],
 #ext_menu-3z .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #000000!important;
 }
 #extShop1-40 .galleryItem h4:hover {
   color: #000000;
@@ -1108,28 +1108,28 @@ h6,
   background-color: #000000;
 }
 #extShop1-40 .shop-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .max-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .min-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .item-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 .shop-item-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-40 H3 {
   font-size: 20px;
