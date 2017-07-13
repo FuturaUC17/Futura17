@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "FieldPro.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1226,15 +1226,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
