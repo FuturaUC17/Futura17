@@ -966,7 +966,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Awesome",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-51-2000x2000-800x800.jpg",
@@ -1056,7 +1056,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Creative",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark113-2000x2000-800x800.jpg",
@@ -1288,7 +1288,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark121-2000x2000-800x800.jpg",
@@ -1359,6 +1359,51 @@
                 "itemPrice": "",
                 "itemDescription": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Awesome",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark122-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark122-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Introduction To Field Pro Stake",
+                "itemSubtitle": "By: Doug &amp; Brant",
+                "itemPrice": "",
+                "itemDescription": "NEED THIS &nbsp; &nbsp; &nbsp;",
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">FIELD PRO STAKE</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Awesome",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark123-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark123-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Intro Into Field Inspection Ecosystem Module",
+                "itemSubtitle": "By: Doug Malinowski",
+                "itemPrice": "",
+                "itemDescription": "NEED THIS &nbsp;&nbsp;",
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">ECOSYSTEM MODULE</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": true,
+                "tags": "Awesome",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark124-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark124-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Field Data Collection In Field Pro",
+                "itemSubtitle": "By: Doug Malinowski",
+                "itemPrice": "",
+                "itemDescription": "NEED THIS &nbsp; &nbsp; &nbsp;&nbsp;",
+                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">FIELD DATA COLLECTION</a>"
               }
             ],
             "bgColor": "#fff",
@@ -1538,6 +1583,9 @@
             ".btn": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H3": {
+              "font-size": "20px"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1608,29 +1656,17 @@
                 "active": true,
                 "tags": "Awesome",
                 "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-89-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(89)-2000x2000.jpg",
-                "onsale": "-50%",
-                "itemTitle": "Mobile Workforce &amp; Field Pro",
-                "itemSubtitle": "By: Doug Malinowski",
-                "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MOBILE WORKFORCE</a>"
-              },
-              {
-                "itemPriceTitle": "From: ",
-                "caption": "Type caption here",
-                "active": false,
-                "tags": "Awesome",
-                "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-89-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(89)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark127-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark127-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "IQ &amp; How it relates to the Futura Database",
                 "itemSubtitle": "By: Brad Mayfield",
                 "itemPrice": "",
                 "itemDescription": "This will be a brief description of the class.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">IQ-FUTURA DATABASE</a>"
+              },
+              {
+                "active": false
               }
             ],
             "bgColor": "#fff",
@@ -1952,7 +1988,9 @@
             },
             "H3": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
@@ -1993,42 +2031,44 @@
                 "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark120-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark120-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark126-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark126-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Staking In Field Pro",
+                "itemTitle": "GPS Stake",
                 "itemSubtitle": "By: Doug Malinowski",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">STAKING IN FIELD PRO</a>"
+                "itemDescription": "NEED THIS",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">GPS STAKE</a>"
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
                 "tags": "Creative",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/shop3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark128-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark128-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Bicycle",
-                "itemSubtitle": "for freedom",
-                "itemPrice": "$60.00",
-                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+                "itemTitle": "GPS World",
+                "itemSubtitle": "By: Eric Gakstatter",
+                "itemPrice": "",
+                "itemDescription": "NEED THIS",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">GPS WORLD</a>",
+                "active": false
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
                 "tags": "Creative",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/shop4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark129-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark129-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Cap of invisibility",
-                "itemSubtitle": "provided by magicians",
-                "itemPrice": "$78.00",
-                "itemDescription": "You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3478DF5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+                "itemTitle": "Peak Pressure Performance",
+                "itemSubtitle": "By: Bill Driscoll",
+                "itemPrice": "",
+                "itemDescription": "NEED THIS",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">PERFORMANCE</a>",
+                "active": false
               },
               {
                 "itemPriceTitle": "From: ",
@@ -2094,7 +2134,7 @@
             "filter": true
           },
           "_anchor": "extShop1-4m",
-          "title": "Opening Session",
+          "title": "OPENING SESSION",
           "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
           "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
           "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
