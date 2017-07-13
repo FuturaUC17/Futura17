@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "Staking.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -700,7 +700,7 @@
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "Brant is still coming up with one for this.",
-                "button": "<a data-app-btn=\"true\" href=\"ftp://ftp.futuragis.com/support/Brant/Tips &amp; TricksUC17.pptx\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
+                "button": "<a data-app-btn=\"true\" href=\"https://www.slideshare.net/secret/6yFxA9vqjQ1wrf\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
