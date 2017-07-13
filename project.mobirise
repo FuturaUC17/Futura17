@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 167,
+    "uniqCompNum": 168,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -113,7 +113,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -149,34 +149,39 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "72px"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "80px"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
             }
           },
-          "_anchor": "header1-4i",
+          "_anchor": "header1-4n",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/intercontinental-buckhead-atlanta-exterior-night-low-1-2000x1216.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aqua-indigo-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
-          "title": "Futura 17<br>Break-Out<br>Sessions<br>&nbsp;",
+          "title": "Futura 17 <br>Break-Out Presentations",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Mapping.html\" data-toolbar=\"-mbrBtnMove\">Mapping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Staking.html\" data-toolbar=\"-mbrBtnMove\">Staking</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"OMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"FieldPro.html\" data-toolbar=\"-mbrBtnMove\">Field Pro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Catalyst.html\" data-toolbar=\"-mbrBtnMove\">Catalyst</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"OpeningSession.html\" data-toolbar=\"-mbrBtnMove\">Opening Session</a>"
         }
       ]
     },
@@ -572,7 +577,7 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -700,7 +705,7 @@
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "Brant is still coming up with one for this.",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.slideshare.net/JodyPicou/tips-amp-tricks-uc17-77835843\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
+                "button": "<a data-app-btn=\"true\" href=\"https://www.slideshare.net/JodyPicou/tips-and-tricks-77840543\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
@@ -767,7 +772,7 @@
             "showTitle": true,
             "showBestSellers": false,
             "priceRange": false,
-            "filter": true
+            "filter": false
           },
           "_anchor": "extShop1-3w",
           "title": "STAKING",
