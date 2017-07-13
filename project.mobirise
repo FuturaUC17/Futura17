@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "index.html",
+    "currentPage": "FieldPro.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1226,15 +1226,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "@titleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "@subtitleFont",
+              "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "@textFont",
+              "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -1268,7 +1268,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "tags": "Awesome",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark111-2000x2000-800x800.jpg",
@@ -1283,13 +1283,13 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "tags": "Wonderful",
                 "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-62-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(62)-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark121-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark121-2000x2000.jpg",
                 "onsale": "-50%",
-                "itemTitle": "Authorizing Field Pro Maps",
+                "itemTitle": "Authoring Field Pro Maps",
                 "itemSubtitle": "By: Josh Coleman",
                 "itemPrice": "",
                 "itemDescription": "Are you a GIS administrator who wants to get the most out of FieldPro?  Join us for a deep dive into creating maps and we’ll show you how to tackle issues like complex symbolgy, hiding sensitive fields, and creating new searches.&nbsp;",
@@ -1352,7 +1352,7 @@
                 "itemTitle": "Field Pro Open <br>Forum<br>",
                 "itemSubtitle": "By: Nick / AJ / Josh",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OPEN FORUM</a>"
               }
             ],
