@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 165,
+    "uniqCompNum": 167,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -140,7 +140,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OpeningSession.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -284,7 +284,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OpeningSession.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -599,7 +599,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OpeningSession.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -631,15 +631,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -745,7 +745,7 @@
                 "itemSubtitle": "By: Jody Picou &amp; Brant Hood",
                 "itemPrice": "",
                 "itemDescription": "Another of our stakers will be demonstrating an advanced overhead job consisting of rerouting, rephasing and resizing of existing lines.  This class will focus on how to handle a mine field of complex design challenges in Futura's staking application.",
-                "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">OH WORK PLAN JOBS</a>"
+                "button": "<a data-app-btn=\"true\" href=\"https://www.scribd.com/presentation/353675160/WorK-Order-Jobs\" class=\"btn btn-black\">OH WORK PLAN JOBS</a>"
               },
               {
                 "itemPriceTitle": "From: ",
@@ -1226,15 +1226,15 @@
               "font-family": "@titleFont"
             },
             ".item-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
+              "font-family": "@titleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".item-subtitle": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@subtitleFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".card-description": {
-              "font-family": "'Roboto', sans-serif",
+              "font-family": "@textFont",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".shop-item-price": {
@@ -1277,7 +1277,7 @@
                 "itemTitle": "Field Pro Basic",
                 "itemSubtitle": "By: Josh Coleman",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "Considering a mobile map viewer?  Check out this in depth demonstration of FieldPro Basic from the user’s perspective and see the advantages of incorporating an advanced mobile solution into your technical arsenal. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">FIELD PRO BASIC</a>"
               },
               {
@@ -1290,9 +1290,9 @@
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(62)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Authorizing Field Pro Maps",
-                "itemSubtitle": "By: AJ Cerilli",
+                "itemSubtitle": "By: Josh Coleman",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "Are you a GIS administrator who wants to get the most out of FieldPro?  Join us for a deep dive into creating maps and we’ll show you how to tackle issues like complex symbolgy, hiding sensitive fields, and creating new searches.&nbsp;",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">AUTHORIZING FP MAPS</a>"
               },
               {
@@ -1305,9 +1305,9 @@
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark1213-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Managing Photos",
-                "itemSubtitle": "By: Nick Gwinn &amp; AJ Cerilli",
+                "itemSubtitle": "By: AJ Cerilli",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "Taking photos with your inspections and not sure what to do with them?  Discover how photos work in FieldPro and learn where they’re stored in your database, how to export them to standard formats, and view them as hyperlinks directly from your iPad. &nbsp; &nbsp;&nbsp;",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">MANAGING PHOTOS</a>"
               },
               {
@@ -1320,9 +1320,9 @@
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(64)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Offline Imagery &amp; Goolge Maps",
-                "itemSubtitle": "By: Nick Gwinn",
+                "itemSubtitle": "By: AJ Cerilli",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class",
+                "itemDescription": "Interested in getting more out of FieldPro while you’re offline?  Learn how to create tile packages and load them into FieldPro so you have constant access to your imagery in the field.  We’ll also show you how to switch to Google maps and use service areas for offline navigation.&nbsp;",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">IMAGERY</a>"
               },
               {
@@ -1335,9 +1335,9 @@
                 "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(65)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Inspections - Configuration - Tips &amp; Tricks",
-                "itemSubtitle": "By: Nick Gwinn",
+                "itemSubtitle": "By: AJ Cerilli",
                 "itemPrice": "",
-                "itemDescription": "This would be a brief description of the class",
+                "itemDescription": "Seeking a better solution to meet your inspection needs?  Explore the FieldPro Inspection Module and learn advanced configuration options to get more of out your inspection program.    (Dependant Values, Jump To, Required Fields) &nbsp;&nbsp;",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">TIPS &amp; TRICKS</a>"
               },
               {
@@ -1774,6 +1774,317 @@
           "title": "",
           "text": "<br><br><br><span style=\"font-style: normal;\"><b>Thank you for checking out our conference presentaions page. This presentation will be available the shortly after 6:00pm on the day it was presented.</b></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "
+        }
+      ]
+    },
+    "OpeningSession.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4l",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OpeningSession.html\" aria-expanded=\"false\">OPENING SESSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Mapping.html\" aria-expanded=\"false\">MAPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Staking.html\" aria-expanded=\"false\">STAKING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OMS.html\" aria-expanded=\"false\">OMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"FieldPro.html\" aria-expanded=\"false\">FIELD PRO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Catalyst.html\" aria-expanded=\"false\">CATALYST</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"https://mobirise.com/\">MAPPING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".galleryItem h4:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li.active": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:hover": {
+              "color": "@primaryColor"
+            },
+            ".mbr-gallery-filter ul li:before": {
+              "background": "@primaryColor"
+            },
+            ".min-toggle:hover, .max-toggle:hover": {
+              "background-color": "@primaryColor"
+            },
+            ".shop-title": {
+              "font-family": "@titleFont"
+            },
+            ".categories-titles .mbr-gallery-filter ul li": {
+              "font-family": "@titleFont"
+            },
+            ".max-input": {
+              "font-family": "@titleFont"
+            },
+            ".min-input": {
+              "font-family": "@titleFont"
+            },
+            ".item-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".item-subtitle": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".card-description": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".shop-item-price": {
+              "font-family": "@titleFont"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extShop1",
+          "_params": {
+            "showSidebar": false,
+            "showSortButtons": false,
+            "paddingTop": "5",
+            "paddingBottom": 2,
+            "filterBgColor": false,
+            "fontHoverColor": "@primaryColor",
+            "mainTitle": "@titleFont",
+            "mainSubTitle": "@subtitleFont",
+            "mainText": "@textFont",
+            "images": [
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": false,
+                "tags": "Awesome",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark119-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark119-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Report IQ",
+                "itemSubtitle": "By: Adam Dinges",
+                "itemPrice": "",
+                "itemDescription": "This will be a brief description of the class.",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">REPORT IQ</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "active": true,
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/adobe-spark120-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark120-2000x2000.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Staking In Field Pro",
+                "itemSubtitle": "By: Doug Malinowski",
+                "itemPrice": "",
+                "itemDescription": "This will be a brief description of the class",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">STAKING IN FIELD PRO</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Creative",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop3.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Bicycle",
+                "itemSubtitle": "for freedom",
+                "itemPrice": "$60.00",
+                "itemDescription": "Some cool bicycle.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3476DF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Creative",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop4.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Cap of invisibility",
+                "itemSubtitle": "provided by magicians",
+                "itemPrice": "$78.00",
+                "itemDescription": "You should believe it works, otherwise there is no magic!<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>3478DF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Creative",
+                "bestSeller": true,
+                "thumb": "@PROJECT_PATH@/assets/images/shop5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop5.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Invisible Hat",
+                "itemSubtitle": "seen/not seen on photo",
+                "itemPrice": "$89.90",
+                "itemDescription": "Has no weight! Try not to lose it.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34GFDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Wonderful",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/shop6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop6.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Shoes",
+                "itemSubtitle": "made for walking",
+                "itemPrice": "$9.00",
+                "itemDescription": "Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>385DDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Creative",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/shop7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop7.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Backpack",
+                "itemSubtitle": "keeps your hands free",
+                "itemPrice": "$29.00",
+                "itemDescription": "Seen on photo. Check our gallery for more photos.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>340DDF5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              },
+              {
+                "itemPriceTitle": "From: ",
+                "caption": "Type caption here",
+                "tags": "Creative",
+                "bestSeller": false,
+                "thumb": "@PROJECT_PATH@/assets/images/shop8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shop8.jpg",
+                "onsale": "-50%",
+                "itemTitle": "Fun garlands",
+                "itemSubtitle": "to make your life happier",
+                "itemPrice": "$3.50",
+                "itemDescription": "Hand-made! So they may differ.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34556F5p</b>",
+                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showTitle": true,
+            "showBestSellers": false,
+            "priceRange": true,
+            "filter": true
+          },
+          "_anchor": "extShop1-4m",
+          "title": "Opening Session",
+          "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
+          "articleLayout": false,
+          "sidebar1": "Best Sellers",
+          "sidebar2": "Filter by price",
+          "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
+          "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
+          "sidebar3": "Product Categories",
+          "allItem": "All"
         }
       ]
     }

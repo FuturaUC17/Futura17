@@ -971,13 +971,13 @@ h6,
   font-family: Montserrat;
 }
 #extShop1-3w .item-title {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-3w .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Lora;
 }
 #extShop1-3w .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-3w .shop-item-price {
   font-family: Montserrat;
@@ -1204,13 +1204,13 @@ h6,
   font-family: Montserrat;
 }
 #extShop1-44 .item-title {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: Montserrat;
 }
 #extShop1-44 .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Lora;
 }
 #extShop1-44 .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Raleway;
 }
 #extShop1-44 .shop-item-price {
   font-family: Montserrat;
@@ -1309,16 +1309,16 @@ h6,
   background-color: #c0a375;
 }
 #extShop1-46 .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .item-title {
   font-family: 'Roboto Condensed', sans-serif;
@@ -1330,7 +1330,7 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-46 .card-description P {
   font-family: 'Roboto', sans-serif;
@@ -1408,4 +1408,121 @@ h6,
 #header1-48 .mbr-section-lead SPAN {
   font-family: 'Merriweather', serif;
   font-size: 48px;
+}
+
+
+
+
+
+
+
+#ext_menu-4l .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4l .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-4l .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4l .close-icon::before,
+#ext_menu-4l .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4l .link,
+#ext_menu-4l .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#ext_menu-4l .link {
+  font-size: 1.05rem;
+}
+#ext_menu-4l .dropdown-item,
+#ext_menu-4l .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-4l .link:hover,
+#ext_menu-4l .dropdown-item:hover,
+#ext_menu-4l .link:focus,
+#ext_menu-4l .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-4l .link[aria-expanded="true"],
+#ext_menu-4l .dropdown-menu {
+  background: #171c2c;
+}
+#ext_menu-4l .nav-dropdown-sm .link:focus,
+#ext_menu-4l .nav-dropdown-sm .link:hover,
+#ext_menu-4l .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4l .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#ext_menu-4l .navbar,
+#ext_menu-4l .nav-dropdown-sm,
+#ext_menu-4l .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4l .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#ext_menu-4l .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4l .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4l .bg-color.transparent.opened .link:hover,
+#ext_menu-4l .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-4l .link[aria-expanded="true"],
+#ext_menu-4l .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extShop1-4m .galleryItem h4:hover {
+  color: #c0a375;
+}
+#extShop1-4m .mbr-gallery-filter ul li.active {
+  color: #c0a375;
+}
+#extShop1-4m .mbr-gallery-filter ul li:hover {
+  color: #c0a375;
+}
+#extShop1-4m .mbr-gallery-filter ul li:before {
+  background: #c0a375;
+}
+#extShop1-4m .min-toggle:hover,
+#extShop1-4m .max-toggle:hover {
+  background-color: #c0a375;
+}
+#extShop1-4m .shop-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-4m .categories-titles .mbr-gallery-filter ul li {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-4m .max-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-4m .min-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-4m .item-title {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#extShop1-4m .item-subtitle {
+  font-family: 'Roboto', sans-serif;
+}
+#extShop1-4m .card-description {
+  font-family: 'Roboto', sans-serif;
+}
+#extShop1-4m .shop-item-price {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-4m .btn {
+  font-family: 'Roboto', sans-serif;
+}
+#extShop1-4m H3 {
+  font-family: 'Roboto', sans-serif;
 }
