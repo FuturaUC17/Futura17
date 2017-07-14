@@ -3813,7 +3813,7 @@
             }
           },
           "title": "Open Forum",
-          "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Cassie, Travis &amp; Alex",
+          "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Cassie Corbett",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
@@ -5277,7 +5277,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1498.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-18-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
