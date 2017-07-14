@@ -1617,7 +1617,7 @@
                 "itemTitle": "Catalyst Configuration",
                 "itemSubtitle": "By: Travis Rushton",
                 "itemPrice": "",
-                "itemDescription": "<p>This will be a brief description of the class.</p>",
+                "itemDescription": "<p>A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:</p><ul><li>Administer new users</li><li>Set up roles</li><li>Create new searches including related tables</li><li>Build a new query in the Custom Widget category</li><li>Add and modifu symbology and display fields</li><li>Add a hyperlink to a field</li><li>Add a new map layer</li></ul>",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">CATALYST CONFIGURATION</a>"
               },
               {
@@ -1632,7 +1632,7 @@
                 "itemTitle": "Dashboard Planning",
                 "itemSubtitle": "By: Brad Mayfield",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "<p>How to properly organize data and outline a new dashboard. Users can expect to learn how to:</p><ul><li>Create a new database link in IQ</li><li>Stage data for presentment</li><li>Outline how the dashboard will look prior to construction</li><li>Needs assessment - what problem are you trying to solve?</li><li>Presenting a dashboard - Who will use the dashboard? What is the best way to visualize the data</li></ul>",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">DASHBOARD PLANNING</a>"
               },
               {
@@ -1647,7 +1647,7 @@
                 "itemTitle": "Visual Inspections",
                 "itemSubtitle": "By: Travis Rushton",
                 "itemPrice": "",
-                "itemDescription": "This will be a brief description of the class.",
+                "itemDescription": "<p>Using Catalyst to display and track inspection projects. Users can expect to learn how to:</p><ul><li>Difference between showing feature service data vs adding the Construction Widget</li><li>How to create a point and line feature service and publish to Catalyst</li><li>Data flow between Field Pro and Catalyst</li><li>Best practice to symbolize and what fields to use</li><li>Best practice to filter, track, and report</li><li>Inspection template samples used in IQ</li></ul>",
                 "button": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-black\">VISUAL INSPECTIONS</a>"
               },
               {
@@ -5932,6 +5932,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-5x",
           "_params": {
             "imageSize": "40",
@@ -5977,15 +5985,7 @@
           },
           "title": "Open Forum",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -6767,6 +6767,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "text-align": "right"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-67",
           "_params": {
             "imageSize": "40",
@@ -6812,16 +6821,7 @@
           },
           "title": "Offline Imagery &amp; Google Maps",
           "text": "Interested in getting more out of FieldPro while you’re offline? Learn how to create tile packages and load them into FieldPro so you have constant access to your imagery in the field. We’ll also show you how to switch to Google maps and use service areas for offline navigation.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px",
-              "text-align": "right"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -6935,6 +6935,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-69",
           "_params": {
             "imageSize": "40",
@@ -6980,15 +6988,7 @@
           },
           "title": "Inspections In Depth",
           "text": "Seeking a better solution to meet your inspection needs? Explore the FieldPro Inspection Module and learn advanced configuration options to get more of out your inspection program. (Dependant Values, Jump To, Required Fields) ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATIONS</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATIONS</a>"
         }
       ]
     },
@@ -7102,6 +7102,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6b",
           "_params": {
             "imageSize": "40",
@@ -7147,15 +7155,7 @@
           },
           "title": "Open Forum",
           "text": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -7269,6 +7269,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6d",
           "_params": {
             "imageSize": "40",
@@ -7314,15 +7322,7 @@
           },
           "title": "Introduction To Field Pro Stake",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -7436,6 +7436,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6f",
           "_params": {
             "imageSize": "40",
@@ -7481,15 +7489,7 @@
           },
           "title": "Inspection Ecosystem Module",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -7603,6 +7603,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "text-align": "right"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6h",
           "_params": {
             "imageSize": "40",
@@ -7648,16 +7657,7 @@
           },
           "title": "Field Data Collection In Field Pro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px",
-              "text-align": "right"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -7771,6 +7771,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6j",
           "_params": {
             "imageSize": "40",
@@ -7816,15 +7824,7 @@
           },
           "title": "Catalyst Configuration",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -7938,6 +7938,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6l",
           "_params": {
             "imageSize": "40",
@@ -7983,15 +7991,7 @@
           },
           "title": "Dashboard Planning",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -8105,6 +8105,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6n",
           "_params": {
             "imageSize": "40",
@@ -8150,15 +8158,7 @@
           },
           "title": "IQ &amp; How it relates to the Futura Database",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     },
@@ -8272,6 +8272,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6p",
           "_params": {
             "imageSize": "40",
@@ -8317,15 +8325,7 @@
           },
           "title": "Visual Inspections",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     }
