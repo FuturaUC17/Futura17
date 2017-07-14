@@ -151,7 +151,7 @@
             ".mbr-section-title": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "80px"
+              "font-size": "72px"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -179,7 +179,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Futura 17 <br>Break-Out Presentations",
+          "title": "Futura 17 <br>Break-Out Sessions",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"OpeningSession.html\" data-toolbar=\"-mbrBtnMove\">Opening Session</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Mapping.html\" data-toolbar=\"-mbrBtnMove\">Mapping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Staking.html\" data-toolbar=\"-mbrBtnMove\">Staking</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"OMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"FieldPro.html\" data-toolbar=\"-mbrBtnMove\">Field Pro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Catalyst.html\" data-toolbar=\"-mbrBtnMove\">Catalyst</a>"
         }
