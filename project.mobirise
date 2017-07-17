@@ -394,7 +394,7 @@
                 "tags": "Wonderful",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adobe%20spark%20(59)-2000x2000.jpg",
                 "onsale": "-50%",
                 "itemTitle": "Validations &amp; It's Importance",
                 "itemSubtitle": "By: Cassie Corbett",
@@ -2939,7 +2939,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/staking-work-management-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2947,7 +2947,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -3440,7 +3440,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/adobe-spark-59-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/validations-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3448,7 +3448,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -3941,7 +3941,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nkcppv-b88337940z-2000x1287.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/map-services-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3949,7 +3949,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -4108,7 +4108,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/computer&map-2000x1150.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/server-architecture-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4116,7 +4116,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -4609,7 +4609,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-gps01-2000x1750.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gps-stake-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4617,7 +4617,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -5277,7 +5277,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-18-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/futura-ivr-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5285,7 +5285,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -6446,7 +6446,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6454,7 +6454,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -6781,7 +6781,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/resize-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6789,7 +6789,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -6948,7 +6948,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-2000x1334.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6956,7 +6956,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7115,7 +7115,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hx8mirh-2000x1328.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7123,7 +7123,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7282,7 +7282,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/field-pro-stake-2000x1500.png",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7290,7 +7290,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7449,7 +7449,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-19-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7457,7 +7457,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7617,7 +7617,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7625,7 +7625,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7784,7 +7784,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/networking.gif",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7792,7 +7792,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -7951,7 +7951,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7959,7 +7959,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -8118,7 +8118,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8126,7 +8126,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -8285,7 +8285,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8293,7 +8293,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -8439,12 +8439,20 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-6s",
           "_params": {
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-22-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8452,7 +8460,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -8484,15 +8492,7 @@
           },
           "title": "Mobile Workforce &amp; Field Pro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
     }
