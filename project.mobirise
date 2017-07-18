@@ -1954,60 +1954,6 @@
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"OpeningSession.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">OPENING SESSION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Workforce &amp; Field Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Field Pro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPSWORLD.html\">GPS World</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PPP.html\">Peak Pressure Performance</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Mapping.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MAPPING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewinMapping.html\">What's New in 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Validations.html\">Validations &amp; It's Importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SupportIssues.html\">Commonly Reported Support Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MAPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MapServices.html\">Map Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ServerArchitecture.html\">Server Architecture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FaultCurrent.html\">Aquiring &amp; Using Fault Currents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Staking.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">STAKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WhatsNewStaking.html\">Intro To 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricks.html\" aria-expanded=\"false\">Tips &amp; Tricks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UGWKPLAN.html\">UG Work Plan&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OHWKPLAN.html\">OH Work Plan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"StakingAndWKManage.html\">Staking &amp; Work Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OpenForum.html\">Open Forum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"OMS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">OMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewOMS.html\">What's New in 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FuturaIVR.html\">Futura IVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricksHiddenTools.html\">Tips &amp; Tricks Hidden Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ClientMonitor.html\">OMS Client Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PingDialog.html\">Ping Dialog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OMSOpenForum.html\">Open forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"InfoInOut.html\">Outage Info In / Info Out</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"FieldPro.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FIELD PRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPBasic.html\">Field Pro Basic</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthoringFP.html\">Authoring Field Pro Maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PHOTOS.html\">Managing Photos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OfflineImagery.html\">Offline Imagery &amp; Google Maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspections.html\">Inspections In Depth</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Introduction To Field Pro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecosystem.html\">Inspection Ecosystem Module</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FieldDataCollection.html\">Field Data Collection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Workforce &amp; Field Pro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Catalyst.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CATALYST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Catalys.html\">Catalyst Configuration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dashboard.html\">Dashboard Planning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">IQ - Futura Database</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"VisualInspections.html\">Visual Inspections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReportIQ.html\">Report IQ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
-          "_styles": {
-            ".galleryItem h4:hover": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li.active": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li:hover": {
-              "color": "@primaryColor"
-            },
-            ".mbr-gallery-filter ul li:before": {
-              "background": "@primaryColor"
-            },
-            ".min-toggle:hover, .max-toggle:hover": {
-              "background-color": "@primaryColor"
-            },
-            ".shop-title": {
-              "font-family": "@titleFont"
-            },
-            ".categories-titles .mbr-gallery-filter ul li": {
-              "font-family": "@titleFont"
-            },
-            ".max-input": {
-              "font-family": "@titleFont"
-            },
-            ".min-input": {
-              "font-family": "@titleFont"
-            },
-            ".item-title": {
-              "font-family": "@titleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            },
-            ".item-subtitle": {
-              "font-family": "@subtitleFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".card-description": {
-              "font-family": "@textFont",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".shop-item-price": {
-              "font-family": "@titleFont"
-            },
-            ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "20px",
-              "text-align": "left"
-            }
-          },
           "closeModal": "<a class=\"btn btn-primary modalButton\" mbr-on-click=\"_onCloseModalClick\">Close</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -2016,7 +1962,7 @@
           "_name": "extShop1",
           "_params": {
             "showSidebar": false,
-            "showSortButtons": false,
+            "showSortButtons": true,
             "paddingTop": "5",
             "paddingBottom": 2,
             "filterBgColor": false,
@@ -2084,68 +2030,12 @@
                 "itemPrice": "",
                 "itemDescription": "NEED THIS",
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-black\">PERFORMANCE</a>"
-              },
-              {
-                "itemPriceTitle": "From: ",
-                "caption": "Type caption here",
-                "tags": "Creative",
-                "bestSeller": true,
-                "thumb": "@PROJECT_PATH@/assets/images/shop5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop5.jpg",
-                "onsale": "-50%",
-                "itemTitle": "Invisible Hat",
-                "itemSubtitle": "seen/not seen on photo",
-                "itemPrice": "$89.90",
-                "itemDescription": "Has no weight! Try not to lose it.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34GFDF5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
-              },
-              {
-                "itemPriceTitle": "From: ",
-                "caption": "Type caption here",
-                "tags": "Wonderful",
-                "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/shop6.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop6.jpg",
-                "onsale": "-50%",
-                "itemTitle": "Shoes",
-                "itemSubtitle": "made for walking",
-                "itemPrice": "$9.00",
-                "itemDescription": "Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>385DDF5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
-              },
-              {
-                "itemPriceTitle": "From: ",
-                "caption": "Type caption here",
-                "tags": "Creative",
-                "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/shop7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop7.jpg",
-                "onsale": "-50%",
-                "itemTitle": "Backpack",
-                "itemSubtitle": "keeps your hands free",
-                "itemPrice": "$29.00",
-                "itemDescription": "Seen on photo. Check our gallery for more photos.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>340DDF5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
-              },
-              {
-                "itemPriceTitle": "From: ",
-                "caption": "Type caption here",
-                "tags": "Creative",
-                "bestSeller": false,
-                "thumb": "@PROJECT_PATH@/assets/images/shop8.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shop8.jpg",
-                "onsale": "-50%",
-                "itemTitle": "Fun garlands",
-                "itemSubtitle": "to make your life happier",
-                "itemPrice": "$3.50",
-                "itemDescription": "Hand-made! So they may differ.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34556F5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>"
               }
             ],
             "bgColor": "#fff",
             "showTitle": true,
             "showBestSellers": false,
-            "priceRange": true,
+            "priceRange": false,
             "filter": true
           },
           "_anchor": "extShop1-4m",
@@ -2159,7 +2049,12 @@
           "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
           "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
           "sidebar3": "Product Categories",
-          "allItem": "All"
+          "allItem": "All",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section  extShop1 mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255); padding-top: 7.5rem; padding-bottom: 3rem;\">\n    <!-- Gallery -->\n    <div class=\"col-md-9 clearfix\" style=\"width: 100%;\">\n      <h3 class=\"shop-title mbr-editable-content\" code-editable-id=\"31\">OPENING SESSION</h3>\n      \n    </div> \n    <div class=\"col-md-12\">\n        <div class=\"col-md-9\" style=\"width: 100%;\">\n          <div class=\"mbr-gallery-row\">\n                  <div>\n                      <div class=\"shop-items\">\n                          <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Awesome\" data-seller=\"false\">\n                              <div class=\"galleryItem\" href=\"#lb-extShop1-4m\" data-slide-to=\"0\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/adobe-spark-89-2000x2000-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"32\">-50%</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"33\">Mobile Workforce &amp; Field Pro</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"34\">By: Adam Dinges</h5>\n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"35\"></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"36\">This will be a brief description of the class.</div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-black mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"37\">MOBILE WORKFORCE</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Wonderful\" data-seller=\"false\">\n                              <div class=\"galleryItem\" href=\"#lb-extShop1-4m\" data-slide-to=\"1\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/adobe-spark122-2000x2000-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"38\">-50%</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"39\">Field Pro Stake</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"40\">By: Doug Malinowski</h5>\n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"41\"></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"42\">NEED THIS</div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-black mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"43\">FIELD PRO STAKE</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Creative\" data-seller=\"false\">\n                              <div class=\"galleryItem\" href=\"#lb-extShop1-4m\" data-slide-to=\"2\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/adobe-spark128-2000x2000-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"44\">-50%</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"45\">GPS World</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"46\">By: Eric Gakstatter</h5>\n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"47\"></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"48\">NEED THIS</div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-black mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"49\">GPS WORLD</a></div>\n                                  </div>        \n                              </div>\n                          </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3\" data-tags=\"Creative\" data-seller=\"false\">\n                              <div class=\"galleryItem\" href=\"#lb-extShop1-4m\" data-slide-to=\"3\" data-toggle=\"modal\">\n                              <div class=\"item_overlay\"></div>\n                                  <div class=\"img_wraper\">\n                                    <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/adobe-spark129-2000x2000-800x800.jpg\">\n                                  </div> \n                                  <span class=\"onsale mbr-editable-content\" style=\"display: none;\" code-editable-id=\"50\">-50%</span>\n                                  <div class=\"sidebar_wraper\"> \n                                      <h4 class=\"item-title mbr-editable-content\" code-editable-id=\"51\">Peak Pressure Performance</h4>\n                                      <h5 class=\"item-subtitle mbr-editable-content\" code-editable-id=\"52\">By: Bill Driscoll</h5>\n                                      <div class=\"price-block\">\n                                          <span class=\"shop-item-price mbr-editable-content\" code-editable-id=\"53\"></span>\n                                      </div>\n                                      <div class=\"card-description mbr-editable-full\" code-editable-id=\"54\">NEED THIS</div>   \n                                      <div class=\"mbr-section-btn item-button\" style=\"text-align: center;\"><a href=\"https://mobirise.com/\" class=\"btn btn-black mbr-editable-button\" style=\"position: relative; display: inline-block;\" code-editable-id=\"55\">PERFORMANCE</a></div>\n                                  </div>        \n                              </div>\n                          </div>\n                      </div>\n                  </div>\n                  <div class=\"clearfix\"></div>\n          </div>\n        </div>\n        <div class=\"col-md-3 sidebar\" style=\"display: none;\">\n            <div class=\"sidebar-background\"></div>\n                \n                \n                <div class=\"sidebar-block container sidebar-categories\">\n                    <h4 class=\"sidebar-title mbr-editable-content\" code-editable-id=\"56\">Product Categories</h4>\n                    <div class=\"categories col-md-12\">\n                        <div class=\"categories-titles\">\n                          <!-- Filter -->\n                          <div class=\"mbr-gallery-filter container gallery-filter-active\">\n                                  <ul>\n                                    <li class=\"mbr-gallery-filter-all active mbr-editable-content\" code-editable-id=\"57\">All</li>\n                                  </ul>\n                                </div>\n                        </div>\n                    </div>\n                </div>\n        </div>\n    </div>\n    <div class=\"col-md-3 sidebar\"></div>\n\n    <!-- Lightbox -->\n    <div class=\"shopItemsModal_wraper\">\n      <div class=\"shopItemsModalBg\"></div>\n      <div class=\"shopItemsModal\">\n          <div class=\"col-md-6 image-modal\"></div>\n          <div class=\"col-md-6 text-modal\"></div>\n          <div class=\"closeModal\">\n            <div class=\"close-modal-wrapper\">\n              \n            </div>\n          </div>\n      </div>\n    </div> \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.galleryItem h4:hover {\n\tcolor: #000000;\n}\n.mbr-gallery-filter ul li.active {\n\tcolor: #000000;\n}\n.mbr-gallery-filter ul li:hover {\n\tcolor: #000000;\n}\n.mbr-gallery-filter ul li:before {\n\tbackground: #000000;\n}\n.min-toggle:hover, .max-toggle:hover {\n\tbackground-color: #000000;\n}\n.shop-title {\n\tfont-family: Roboto;\n}\n.categories-titles .mbr-gallery-filter ul li {\n\tfont-family: Roboto;\n}\n.max-input {\n\tfont-family: Roboto;\n}\n.min-input {\n\tfont-family: Roboto;\n}\n.item-title {\n\tfont-family: Roboto;\n}\n.item-subtitle {\n\tfont-family: Roboto;\n}\n.card-description {\n\tfont-family: Roboto;\n}\n.shop-item-price {\n\tfont-family: Roboto;\n}\n.btn {\n\tfont-family: 'Roboto', sans-serif;\n}\nH3 {\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 20px;\n\ttext-align: left;\n}\n",
+          "_customTemplate": true
         }
       ]
     },

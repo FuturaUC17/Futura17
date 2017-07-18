@@ -1341,28 +1341,28 @@ h6,
   background-color: #000000;
 }
 #extShop1-46 .shop-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .max-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .min-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .item-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .item-subtitle {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .card-description {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .shop-item-price {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-46 .card-description P {
   font-family: 'Roboto', sans-serif;
@@ -1446,11 +1446,6 @@ h6,
 }
 
 
-
-
-
-
-
 #ext_menu-4l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1514,6 +1509,13 @@ h6,
 #ext_menu-4l .link[aria-expanded="true"],
 #ext_menu-4l .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
+}
+#extShop1-4m {
+  
+  
+  
+  
+  
 }
 #extShop1-4m .galleryItem h4:hover {
   color: #000000;
