@@ -738,19 +738,19 @@ h6,
 }
 #ext_menu-2n .link[aria-expanded="true"],
 #ext_menu-2n .dropdown-menu {
-  background: #615753;
+  background: #8c7568;
 }
 #ext_menu-2n .nav-dropdown-sm .link:focus,
 #ext_menu-2n .nav-dropdown-sm .link:hover,
 #ext_menu-2n .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2n .nav-dropdown-sm .dropdown-item:hover {
-  background: #746964!important;
+  background: #9c877b!important;
 }
 #ext_menu-2n .navbar,
 #ext_menu-2n .nav-dropdown-sm,
 #ext_menu-2n .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2n .nav-dropdown-sm .dropdown-menu {
-  background: #7c706b;
+  background: #a38f84;
 }
 #ext_menu-2n .bg-color.transparent .link {
   color: #ffffff;
@@ -864,32 +864,32 @@ h6,
   background-color: #000000;
 }
 #extShop1-43 .shop-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-43 .categories-titles .mbr-gallery-filter ul li {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-43 .max-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-43 .min-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-43 .item-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   color: #000000;
 }
 #extShop1-43 .item-subtitle {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   color: #999999;
   font-size: 18px;
 }
 #extShop1-43 .card-description {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
 #extShop1-43 .shop-item-price {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-43 .btn {
   font-family: 'Roboto', sans-serif;
@@ -991,28 +991,28 @@ h6,
   background-color: #000000;
 }
 #extShop1-3w .shop-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .categories-titles .mbr-gallery-filter ul li {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .max-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .min-input {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .item-title {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .item-subtitle {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .card-description {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w .shop-item-price {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-3w H3 {
   font-size: 20px;
