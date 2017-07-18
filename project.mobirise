@@ -181,7 +181,7 @@
           },
           "title": "Futura 17 <br>Break-Out Sessions",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">All Opening Session</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">All Mapping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">All Staking</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">All OMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">All Field Pro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">All Catalyst</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Opening Session</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Mapping</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Staking</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;OMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">Field Pro</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">Catalyst</a>"
         }
       ]
     },
@@ -8611,7 +8611,7 @@
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
-          "title": "All Opening Session Presentations",
+          "title": "&nbsp;Opening Session Presentations",
           "meta": "Futura User Conference 2017"
         },
         {
@@ -8903,7 +8903,7 @@
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
-          "title": "All Mapping Presentations",
+          "title": "&nbsp;Mapping Presentations",
           "meta": "Futura User Conference 2017"
         },
         {
@@ -9673,7 +9673,7 @@
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
-          "title": "All OMS Presentations",
+          "title": "&nbsp;OMS Presentations",
           "meta": "Futura User Conference 2017"
         },
         {
