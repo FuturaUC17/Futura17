@@ -2170,10 +2170,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4p",
@@ -2337,10 +2339,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4r",
@@ -2504,10 +2508,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4t",
@@ -2671,10 +2677,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4v",
@@ -2838,10 +2846,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4x",
@@ -3005,10 +3015,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-4z",
@@ -3172,10 +3184,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-51",
@@ -3339,10 +3353,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-53",
@@ -3506,10 +3522,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-55",
@@ -3673,10 +3691,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-57",
@@ -3840,10 +3860,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-59",
@@ -4007,10 +4029,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5b",
@@ -4174,10 +4198,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5d",
@@ -4341,10 +4367,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5f",
@@ -4508,10 +4536,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5h",
@@ -4675,10 +4705,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5j",
@@ -4842,10 +4874,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5l",
@@ -5009,10 +5043,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5n",
@@ -5176,10 +5212,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5p",
@@ -5343,10 +5381,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5r",
@@ -5510,10 +5550,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5t",
@@ -5677,10 +5719,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5v",
@@ -5844,10 +5888,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5x",
@@ -6011,10 +6057,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-5z",
@@ -6178,10 +6226,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-61",
@@ -6197,7 +6247,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -6345,10 +6395,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-63",
@@ -6512,10 +6564,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-65",
@@ -6680,10 +6734,11 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-67",
@@ -6847,10 +6902,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-69",
@@ -7014,10 +7071,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6b",
@@ -7064,7 +7123,7 @@
             }
           },
           "title": "Open Forum",
-          "text": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Nick, AJ &amp; Hunter",
+          "text": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Nick, AJ &amp; Josh",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
@@ -7181,10 +7240,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6d",
@@ -7348,10 +7409,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6f",
@@ -7516,10 +7579,11 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6h",
@@ -7683,10 +7747,15 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-6j",
@@ -7733,7 +7802,7 @@
             }
           },
           "title": "Catalyst Configuration",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Travis Rushton",
+          "text": "A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:<br><span style=\"line-height: 1.5;\">Administer new users,</span><br>Set up roles,<br>&nbsp;Create searches including related tables,<br>Build a new query in the Custom Widget category,<br>Add and modify symbology and display fields,<br>Add a hyperlink to a field,<br>&nbsp;Add a new map layer<br>By: Travis Rushton",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
@@ -7850,10 +7919,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6l",
@@ -7900,7 +7971,7 @@
             }
           },
           "title": "Dashboard Planning",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "How to properly organize data and outline a new dashboard. Users can expect to learn how to:<br>Create a new database link in IQ,<br>Stage data for presentment,<br>Outline how the dashboard will look prior to construction,<br>Needs assessment - what problem are you trying to solve?,<br>Presenting a dashboard - Who will use the dashboard?,&nbsp;<br>What is the best way to visualize the data<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
@@ -8017,10 +8088,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6n",
@@ -8184,10 +8257,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6p",
@@ -8234,7 +8309,7 @@
             }
           },
           "title": "Visual Inspections",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Travis Rushton<br>",
+          "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<br>How to create a point and line feature service and publish to Catalyst<br>Best practice to symbolize and what fields to use<br>Data flow between Field Pro and Catalyst<br>Inspection template samples used in IQ<br>Best practice to filter, track, and report<br>Difference between showing feature service data vs adding the<br>Construction Widget<br><br>By: Travis Rushton<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>"
         }
       ]
@@ -8351,10 +8426,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-6s",

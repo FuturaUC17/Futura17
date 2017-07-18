@@ -1341,28 +1341,28 @@ h6,
   background-color: #000000;
 }
 #extShop1-46 .shop-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .categories-titles .mbr-gallery-filter ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .max-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .min-input {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .item-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .item-subtitle {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .card-description {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .shop-item-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }
 #extShop1-46 .card-description P {
   font-family: 'Roboto', sans-serif;
@@ -1633,9 +1633,11 @@ h6,
 }
 #header2-4p .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-4p .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -1705,9 +1707,11 @@ h6,
 }
 #header2-4r .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 #header2-4r .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 
 
@@ -1777,9 +1781,11 @@ h6,
 }
 #header2-4t .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-4t .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -1849,9 +1855,11 @@ h6,
 }
 #header2-4v .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-4v .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -1921,9 +1929,11 @@ h6,
 }
 #header2-4x .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-4x .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -1993,9 +2003,11 @@ h6,
 }
 #header2-4z .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-4z .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2065,9 +2077,11 @@ h6,
 }
 #header2-51 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-51 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2137,9 +2151,11 @@ h6,
 }
 #header2-53 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-53 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2209,9 +2225,11 @@ h6,
 }
 #header2-55 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-55 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2281,9 +2299,11 @@ h6,
 }
 #header2-57 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-57 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2353,9 +2373,11 @@ h6,
 }
 #header2-59 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-59 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2425,9 +2447,11 @@ h6,
 }
 #header2-5b .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5b .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2497,9 +2521,11 @@ h6,
 }
 #header2-5d .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5d .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2569,9 +2595,11 @@ h6,
 }
 #header2-5f .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5f .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2641,9 +2669,11 @@ h6,
 }
 #header2-5h .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5h .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2713,9 +2743,11 @@ h6,
 }
 #header2-5j .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5j .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2785,9 +2817,11 @@ h6,
 }
 #header2-5l .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5l .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2857,9 +2891,11 @@ h6,
 }
 #header2-5n .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5n .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -2929,9 +2965,11 @@ h6,
 }
 #header2-5p .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5p .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3001,9 +3039,11 @@ h6,
 }
 #header2-5r .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5r .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3073,9 +3113,11 @@ h6,
 }
 #header2-5t .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5t .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3145,9 +3187,11 @@ h6,
 }
 #header2-5v .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5v .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3217,9 +3261,11 @@ h6,
 }
 #header2-5x .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5x .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3289,9 +3335,11 @@ h6,
 }
 #header2-5z .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-5z .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3361,9 +3409,11 @@ h6,
 }
 #header2-61 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-61 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3433,9 +3483,11 @@ h6,
 }
 #header2-63 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-63 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3505,9 +3557,11 @@ h6,
 }
 #header2-65 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-65 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3577,10 +3631,11 @@ h6,
 }
 #header2-67 .mbr-section-title {
   font-size: 60px;
-  text-align: right;
+  text-align: left;
 }
 #header2-67 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3650,9 +3705,11 @@ h6,
 }
 #header2-69 .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-69 .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3722,9 +3779,11 @@ h6,
 }
 #header2-6b .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6b .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3794,9 +3853,11 @@ h6,
 }
 #header2-6d .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6d .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3866,9 +3927,11 @@ h6,
 }
 #header2-6f .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6f .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -3938,10 +4001,11 @@ h6,
 }
 #header2-6h .mbr-section-title {
   font-size: 60px;
-  text-align: right;
+  text-align: left;
 }
 #header2-6h .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -4011,9 +4075,14 @@ h6,
 }
 #header2-6j .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6j .mbr-section-text {
   font-size: 20px;
+  text-align: left;
+}
+#header2-6j .mbr-section-text B {
+  color: #ffffff;
 }
 
 
@@ -4083,9 +4152,11 @@ h6,
 }
 #header2-6l .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6l .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -4155,9 +4226,11 @@ h6,
 }
 #header2-6n .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6n .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -4227,9 +4300,11 @@ h6,
 }
 #header2-6p .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6p .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
 
 
@@ -4299,7 +4374,9 @@ h6,
 }
 #header2-6s .mbr-section-title {
   font-size: 60px;
+  text-align: left;
 }
 #header2-6s .mbr-section-text {
   font-size: 20px;
+  text-align: left;
 }
