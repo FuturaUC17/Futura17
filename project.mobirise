@@ -8649,7 +8649,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> ",
           "title": "Mobile Workforce &amp; Field Pro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
         },
