@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "index.html",
+    "currentPage": "FieldProOpen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -10933,11 +10933,11 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": " Utility Name*"
+                "customTitle": " Utility Name or Employee Name*"
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Employee Name*"
               },
               "phone": {
@@ -11092,11 +11092,11 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Utility Name*"
+                "customTitle": "Utility Name or Employee Name*"
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Employee Name*"
               },
               "phone": {
@@ -11262,11 +11262,11 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Utility Name*"
+                "customTitle": "Utility Name or Employee Name*"
               },
               "email": {
                 "title": "Email",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Employee Name*"
               },
               "phone": {
@@ -11432,12 +11432,12 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Utility Name*"
+                "customTitle": "Utility Name or Employee Name*"
               },
               "email": {
                 "title": "Email",
-                "visible": true,
-                "customTitle": "Employee Name*"
+                "visible": false,
+                "customTitle": "Email"
               },
               "phone": {
                 "title": "Phone",
