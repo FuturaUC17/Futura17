@@ -164,7 +164,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -173,7 +173,7 @@
           },
           "title": "Futura 17 <br>Break-Out Sessions",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Opening&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Mapping&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Staking&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; OMS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Field Pro&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Catalyst&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Opening &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Mapping &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Staking &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;OMS &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Field Pro&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Catalyst&nbsp;</a>"
         }
       ]
     },
@@ -5696,11 +5696,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-a7",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-26-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5708,7 +5708,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
@@ -5727,7 +5727,7 @@
           "_anchor": "extCountdown1-a8",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
@@ -5761,7 +5761,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-26-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5769,7 +5769,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
@@ -5786,8 +5786,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-aa",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "
@@ -5816,7 +5816,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-27-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5824,7 +5824,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
@@ -5843,7 +5843,7 @@
           "_anchor": "extCountdown1-ad",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
@@ -5877,7 +5877,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-27-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5885,7 +5885,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
@@ -5902,7 +5902,7 @@
           "_name": "buttons1",
           "_anchor": "buttons1-af",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
