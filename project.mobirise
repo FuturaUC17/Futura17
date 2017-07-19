@@ -3149,7 +3149,7 @@
               "size": 250
             }
           },
-          "title": "Visualize Inspections",
+          "title": "Visualizing Inspections with Catalyst IQ",
           "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<br>How to create a point and line feature service and publish to Catalyst<br>Best practice to symbolize and what fields to use<br>Data flow between Field Pro and Catalyst<br>Inspection template samples used in IQ<br>Best practice to filter, track, and report<br>Difference between showing feature service data vs adding the<br>Construction Widget<br><br>By: Travis Rushton<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
@@ -4979,7 +4979,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"VisualInspections.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Visual Inspections",
+          "title": "Visualizing Inspections with Catalyst IQ",
           "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<div>How to create a point and line feature service and publish to Catalyst</div><div>Best practice to symbolize and what fields to use&nbsp;</div><div>Data flow between Field Pro and Catalyst</div><div>Inspection template samples used in IQ</div><div>Best practice to filter, track, and report</div><div>Difference between showing feature service data vs adding the Construction Widget</div><div>By: Travis Rushton</div>"
         },
         {
