@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 323,
+    "uniqCompNum": 366,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -68,10 +68,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -103,7 +103,7 @@
           "_anchor": "ext_menu-8l",
           "_params": {
             "bgColor": "#8a8989",
-            "fontSize": 0.75,
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -208,10 +208,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -243,7 +243,7 @@
           "_anchor": "ext_menu-8l",
           "_params": {
             "bgColor": "#8a8989",
-            "fontSize": 0.75,
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -378,6 +378,19 @@
           "title": "Tips &amp; Tricks",
           "text": "This class will be geared towards anyone who is using or considering using Futura Staking. We will go over a variety of different ways to make your Staking more effcient.<br>By: Jody Picou &amp; Brant Hood&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/DmzhDrNX264NZw\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; SUBMIT QUESTION &nbsp;&nbsp;</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-95",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -448,6 +461,19 @@
           "title": "What's New In 3.3",
           "text": "A class created by stakers, for stakers. This class reviews the basic tools and concepts used for staking jobs in our software. For audience members who are already familiar with Futura Stake, we will highlight the differences between previous versions and 3.3.1.<br>By: Drew Henry &amp; Jessica Su",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-96",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -518,6 +544,19 @@
           "title": "UG Work Plan Jobs",
           "text": "One of our stakers will be demonstrating an advanced underground design. Any stakers interested in learning more about using Favorites, staking Open Points, using the Offset tool to stake underground conductors, and drawing a large job in a short amount of time will benefit from this class.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-97",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -588,6 +627,19 @@
           "title": "OH Work Plan Jobs",
           "text": "Another of our stakers will be demonstrating an advanced overhead job consisting of rerouting, rephasing and resizing of existing lines. This class will focus on how to handle a mine field of complex design challenges in Futura's staking application.<br>By: Jody Picou &amp; Brant Hood",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/EthwLjfhmbDXf\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-98",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -658,6 +710,19 @@
           "title": "Staking &amp; Work Management",
           "text": "Managers and supervisors will enjoy this class. In this class we are showcasing the enhancements made between Futura Stake 3.3.1 and SEDC’s v37 UPN and Work Management. The audience will discover new potential workflows and many new features.<br>By: Drew Henry &amp; Jessica Su",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-99",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -728,6 +793,19 @@
           "title": "Open Forum",
           "text": "For stakers and supervisors alike. In this session, Futura professionals will answer questions submitted by stakers from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Brant, Jody, Drew &amp; Jessica",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -798,6 +876,19 @@
           "title": "What's New In 3.3",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Scott Thomas &amp; Sherri Schreiner",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -868,6 +959,19 @@
           "title": "Validations &amp; It's Importance",
           "text": "Maintaining the GIS database utilizing the Futura Validation tools can have effects throughout the entire suite of Futura products. This presentation will review some of the most critical validation issues, the meaning of the warnings and how to resolve them, as well as when it is recommended to run each of the various validation tasks.<br>By: Cassie Corbett",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -938,6 +1042,19 @@
           "title": "Most Commonly Reported Support Issues",
           "text": "This class will go over some of the most common support issues that are seen on a daily basis in Mapping, Staking, FieldPro, and AutoDeployment. We will show how to resolve these issues quickly and include a flowchart handout for finding lost jobs.<br>By: Michael Christensen",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -1008,6 +1125,19 @@
           "title": "Open Forum",
           "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Cassie Corbett",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -1078,6 +1208,19 @@
           "title": "Map Services",
           "text": "Map services are utilized for Catalyst, Field Pro inspections, as well as custom applications. This presentation will show how to manage map services, the recommended best practices for publishing, and when the services need to be republished.<br>By: Travis Durrance",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>     "
         }
       ]
     },
@@ -1148,6 +1291,19 @@
           "title": "Server Architecture",
           "text": "This presentation will explore how the Futura application server supports users and client applications.<br>By: Todd Payne &amp; Ryszard Tyrtania",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -1218,6 +1374,19 @@
           "title": "Aquiring &amp; Using Fault Currents",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -1288,6 +1457,19 @@
           "title": "Report IQ",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Adam Dinges",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -1358,6 +1540,19 @@
           "title": "GPS World",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By:&nbsp;Eric Gakstatter<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">OPENING SESSION</a>"
         }
       ]
     },
@@ -1428,6 +1623,19 @@
           "title": "Peak Pressure Performance",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By:&nbsp;Bill Driscoll",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">OPENING SESSION</a>"
         }
       ]
     },
@@ -1498,6 +1706,19 @@
           "title": "What's New In 3.3",
           "text": "Overview of new features in the latest version of OMS. We will cover enhancements to performance and appearances, including the right click menu and new ping dialog. Also, a few changes under the hood that improve refresh rate and speed in the map.<br>By: Joseph Coleman",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1568,6 +1789,19 @@
           "title": "Futura IVR",
           "text": "Futura IVR from the ground up.  This class will cover everything you need to know about implementing AutoCue and Futura IVR.  The audience will learn the back end requirements, system architecture, and how things interact.  We’ll follow everything up to the Futura OMS Client side!<br>By: Hunter Guckert",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1638,6 +1872,19 @@
           "title": "Tips &amp; Tricks / Hidden Tools",
           "text": "What are all of the often overlooked little secrets within OMS and how to leverage them to increase your efficiency with OMS and how it interacts with the rest of you utility.  The audience will get some old and some new ideas to help make OMS work better for them and their business process.<br>By: Don Vick",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCES PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1708,6 +1955,19 @@
           "title": "OMS Client Monitor",
           "text": "This is a new tool for the OMS Administrators to use to control connected OMS Clients, the FieldProOMS Client and to view general metrics about each client connected to the OMS Server.  We will also take a more deep dive in to freely available tools to use in conjunction with the OMS Client Monitor to help diagnose networking and hardware issues.<br>By: Don Vick",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1778,6 +2038,19 @@
           "title": "Ping Dialog",
           "text": "A more in-depth view of the New Ping Interface in OMS. The all-in-one interface for all clients utilizing AMI integration within OMS. We will also demonstrate just how the ping dialog works from the map and case ticket views.<br>By: Joseph Coleman<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1848,6 +2121,19 @@
           "title": "Open Forum",
           "text": "For dispatchers and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Don, Joseph &amp; Hunter<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1918,6 +2204,19 @@
           "title": "Outage Info In / Info Out",
           "text": "Placing outages IN and getting outage alerts OUT of your OMS.  This class will focus on two new features in OMS, outage reporting from OMSWebMap and new Outage Alerts from OMS.  The audience will learn about these applications and how to apply them to their utility.<br>By: Hunter Guckert<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -1988,6 +2287,19 @@
           "title": "Field Pro Basic",
           "text": "Considering a mobile map viewer? Check out this in depth demonstration of FieldPro Basic from the user’s perspective and see the advantages of incorporating an advanced mobile solution into your technical arsenal.<br>By: Josh Coleman",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2058,6 +2370,19 @@
           "title": "Authoring Field Pro Maps",
           "text": "Are you a GIS administrator who wants to get the most out of FieldPro? Join us for a deep dive into creating maps and we’ll show you how to tackle issues like complex symbolgy, hiding sensitive fields, and creating new searches.<br>By: Josh Coleman<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2128,6 +2453,19 @@
           "title": "Managing Photos",
           "text": "Taking photos with your inspections and not sure what to do with them? Discover how photos work in FieldPro and learn where they’re stored in your database, how to export them to standard formats, and view them as hyperlinks directly from your iPad.<br>By: AJ Cerilli",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2198,6 +2536,19 @@
           "title": "Offline Imagery &amp; Google Maps",
           "text": "Interested in getting more out of FieldPro while you’re offline? Learn how to create tile packages and load them into FieldPro so you have constant access to your imagery in the field. We’ll also show you how to switch to Google maps and use service areas for offline navigation.<br>By: AJ Cerilli&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2268,6 +2619,19 @@
           "title": "Inspections In Depth",
           "text": "Seeking a better solution to meet your inspection needs? Explore the FieldPro Inspection Module and learn advanced configuration options to get more of out your inspection program. (Dependant Values, Jump To, Required Fields)<br>By: AJ Cerilli<br> ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATIONS</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2338,6 +2702,19 @@
           "title": "Open Forum",
           "text": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br>By: Nick, AJ &amp; Josh",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2408,6 +2785,19 @@
           "title": "Introduction To Field Pro Stake",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski &amp; Brant Hood",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2478,6 +2868,19 @@
           "title": "Inspection Ecosystem Module",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-9z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2548,6 +2951,19 @@
           "title": "Field Data Collection In Field Pro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -2621,6 +3037,19 @@
           "title": "Catalyst Configuration",
           "text": "A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:<br><span style=\"line-height: 1.5;\">Administer new users,</span><br>Set up roles,<br>&nbsp;Create searches including related tables,<br>Build a new query in the Custom Widget category,<br>Add and modify symbology and display fields,<br>Add a hyperlink to a field,<br>&nbsp;Add a new map layer<br>By: Travis Rushton",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -2691,6 +3120,19 @@
           "title": "Dashboard Planning",
           "text": "How to properly organize data and outline a new dashboard. Users can expect to learn how to:<br>Create a new database link in IQ,<br>Stage data for presentment,<br>Outline how the dashboard will look prior to construction,<br>Needs assessment - what problem are you trying to solve?,<br>Presenting a dashboard - Who will use the dashboard?,&nbsp;<br>What is the best way to visualize the data<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -2761,6 +3203,19 @@
           "title": "IQ &amp; How it relates to the Futura Database",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -2831,6 +3286,19 @@
           "title": "Visual Inspections",
           "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<br>How to create a point and line feature service and publish to Catalyst<br>Best practice to symbolize and what fields to use<br>Data flow between Field Pro and Catalyst<br>Inspection template samples used in IQ<br>Best practice to filter, track, and report<br>Difference between showing feature service data vs adding the<br>Construction Widget<br><br>By: Travis Rushton<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -2901,6 +3369,19 @@
           "title": "Mobile Workforce &amp; Field Pro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-a5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -4715,7 +5196,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-25-2000x1333.jpg",
@@ -4757,6 +5238,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-8z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">STAKING</a>"
         }
       ]
     },
@@ -4786,7 +5280,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/map-services-2000x1500.png",
@@ -4828,6 +5322,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-90",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     },
@@ -4857,7 +5364,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/staking-work-management-2000x1500.png",
@@ -4899,6 +5406,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-91",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">OMS</a>"
         }
       ]
     },
@@ -4928,7 +5448,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-1-2000x1334.jpg",
@@ -4970,6 +5490,19 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-92",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">FIELD PRO</a>"
         }
       ]
     },
@@ -4988,7 +5521,7 @@
           "_params": {
             "labelsColor": "#ffffff",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
@@ -5041,6 +5574,19 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-93",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">CATALYST</a>"
         }
       ]
     },
@@ -5058,8 +5604,8 @@
           "_anchor": "form1-8s",
           "_params": {
             "labelsColor": "#ffffff",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/intercontinental-buckhead-atlanta-exterior-night-low-2000x1216.jpg",
@@ -5112,6 +5658,19 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-94",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">OPENING SESSION</a>"
         }
       ]
     }
