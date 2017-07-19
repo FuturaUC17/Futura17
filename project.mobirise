@@ -79,13 +79,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8c7568"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#9c877b!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#a38f84"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -104,7 +104,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2n",
           "_params": {
-            "bgColor": "#a38f84",
+            "bgColor": "#000000",
             "fontSize": "1",
             "fontName": {
               "name": "Roboto Condensed",
@@ -151,7 +151,8 @@
             ".mbr-section-title": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "72px"
+              "font-size": "72px",
+              "color": "#ffffff"
             },
             ".btn": {
               "font-family": "'Roboto', sans-serif",
@@ -164,7 +165,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/aqua-indigo-1-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/custom-bg-55a492d63b6c7402b3fe1d42-1e8d96d25b96-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -172,8 +173,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
