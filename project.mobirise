@@ -173,7 +173,7 @@
           },
           "title": "Futura 17 <br>Break-Out Sessions",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Opening &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Mapping &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Staking &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;OMS &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Field Pro&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Catalyst&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"NOpenSession.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Opening &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Mapping &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NStaking.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Staking &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NOMS.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; OMS &nbsp; &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"NFieldPro.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Field Pro&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"NCatalyst.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Catalyst&nbsp;</a>"
         }
       ]
     },
@@ -926,7 +926,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -1009,7 +1009,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -1371,8 +1371,8 @@
               "size": 250
             }
           },
-          "title": "Aquiring &amp; Using Fault Currents",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -1454,7 +1454,7 @@
               "size": 250
             }
           },
-          "title": "Report IQ",
+          "title": "Applying Analytics",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Adam Dinges",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
@@ -2005,7 +2005,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -2246,7 +2246,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/file-0002-copy-2000x1500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-28-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2671,7 +2671,7 @@
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -2865,7 +2865,7 @@
               "size": 250
             }
           },
-          "title": "Inspection Ecosystem Module",
+          "title": "FieldPro Inspection Ecosystem",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
@@ -2918,7 +2918,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -3035,7 +3035,7 @@
             }
           },
           "title": "Catalyst Configuration",
-          "text": "A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:<br><span style=\"line-height: 1.5;\">Administer new users,</span><br>Set up roles,<br>&nbsp;Create searches including related tables,<br>Build a new query in the Custom Widget category,<br>Add and modify symbology and display fields,<br>Add a hyperlink to a field,<br>&nbsp;Add a new map layer<br>By: Travis Rushton",
+          "text": "A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:<br><span style=\"line-height: 1.5;\">Administer new users,</span><br>Set up roles,<br>&nbsp;Create searches including related tables,<br>Build a new query in the Custom Widget category,<br>Add and modify symbology and display fields,<br>Add a hyperlink to a field,<br>&nbsp;Add a new map layer<br>By: Travis Rushton &amp; Raghav Vemula",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3118,7 +3118,7 @@
             }
           },
           "title": "Dashboard Planning",
-          "text": "How to properly organize data and outline a new dashboard. Users can expect to learn how to:<br>Create a new database link in IQ,<br>Stage data for presentment,<br>Outline how the dashboard will look prior to construction,<br>Needs assessment - what problem are you trying to solve?,<br>Presenting a dashboard - Who will use the dashboard?,&nbsp;<br>What is the best way to visualize the data<br>",
+          "text": "How to properly organize data and outline a new dashboard. Users can expect to learn how to:<br>Create a new database link in IQ,<br>Stage data for presentment,<br>Outline how the dashboard will look prior to construction,<br>Needs assessment - what problem are you trying to solve?,<br>Presenting a dashboard - Who will use the dashboard?,&nbsp;<br>What is the best way to visualize the data<br>By: Brad Mayfield",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3201,7 +3201,7 @@
             }
           },
           "title": "IQ &amp; How it relates to the Futura Database",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Adam Dinges",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3283,8 +3283,8 @@
               "size": 250
             }
           },
-          "title": "Visual Inspections",
-          "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<br>How to create a point and line feature service and publish to Catalyst<br>Best practice to symbolize and what fields to use<br>Data flow between Field Pro and Catalyst<br>Inspection template samples used in IQ<br>Best practice to filter, track, and report<br>Difference between showing feature service data vs adding the<br>Construction Widget<br><br>By: Travis Rushton<br>",
+          "title": "Visualize Inspections",
+          "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<br>How to create a point and line feature service and publish to Catalyst<br>Best practice to symbolize and what fields to use<br>Data flow between Field Pro and Catalyst<br>Inspection template samples used in IQ<br>Best practice to filter, track, and report<br>Difference between showing feature service data vs adding the<br>Construction Widget<br>By: Travis Rushton<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3438,7 +3438,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "bgColor": "#224687",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3914,7 +3914,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FaultCurrent.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "title": "Aquiring &amp; Using Fault Currents",
+          "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
         },
         {
@@ -4598,7 +4598,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPBasic.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Field Pro Basic",
+          "title": "FieldPro Basic",
           "text": "Considering a mobile map viewer? Check out this in depth demonstration of FieldPro Basic from the user’s perspective and see the advantages of incorporating an advanced mobile solution into your technical arsenal.<div>By: Josh Coleman</div>"
         },
         {
@@ -4637,7 +4637,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"AuthoringFP.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Authoring Field Pro Maps",
+          "title": "Authoring FieldPro Maps",
           "text": "Are you a GIS administrator who wants to get the most out of FieldPro? Join us for a deep dive into creating maps and we’ll show you how to tackle issues like complex symbolgy, hiding sensitive fields, and creating new searches.<div>By: Josh Coleman</div>"
         },
         {
@@ -4832,7 +4832,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPSTAKE.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Introduction To Field Pro Stake",
+          "title": "Introduction To FieldPro Stake",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski &amp; Brant Hood</div>"
         },
         {
@@ -4871,7 +4871,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Ecosystem.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Inspection Ecosystem Module",
+          "title": "FieldPro Inspection Ecosystem&nbsp;",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
         },
         {
@@ -4910,7 +4910,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldDataCollection.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Field Data Collection In Field Pro",
+          "title": "Field Data Collection In FieldPro",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
         },
         {
@@ -5152,7 +5152,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "title": "Report IQ",
+          "title": "Applying Analytics",
           "text": "Report IQ<div>Full screen intro with parallax image background and color overlay and a picture on right.</div><div>By: Adam Dinges</div>"
         },
         {
@@ -5547,7 +5547,7 @@
           "title": "Catalyst Questions",
           "subtitle": "Please submit your question here",
           "form": {
-            "action": "travisr@futuragis.com",
+            "action": "Chrisl@futuragis.com",
             "alerts": {
               "success": "Thanks for submitting your question."
             },
