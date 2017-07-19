@@ -5681,96 +5681,6 @@
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#707070"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#828181!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#8a8989"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-a6",
-          "_params": {
-            "bgColor": "#8a8989",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPENING SESSION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PPP.html\">Peak Pressure Performance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPSWORLD.html\">GPS World</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">FieldPro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Work Force &amp; FieldPro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MAPPING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewinMapping.html\">What's New in GIS 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Validations.html\">Validation &amp; Its Importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SupportIssues.html\">Most commonly reported Support Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MAPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MapServices.html\">Map Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ServerArchitecture.html\">Server Architecture</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STAKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WhatsNewStaking.html\">Intro to Stake 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricks.html\">Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OHWKPLAN.html\">OH WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UGWKPLAN.html\">UG WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"StakingAndWKManage.html\">Staking Work Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OpenForum.html\">Open Forum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewOMS.html\">What's New - OMS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FuturaIVR.html\">Futura IVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tips &amp; Tricks  Hidden Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ClientMonitor.html\">OMS Client Monitor </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PingDialog.html\">Ping Dialog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OMSOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"InfoInOut.html\">Outage                  Info In/Info Out</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIELD PRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPBasic.html\">FieldPro Basic </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthoringFP.html\">Authoring FieldPro Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PHOTOS.html\">Managing Photos </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Offline Imagery &amp; Google Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspections.html\">Inspections in Depth-Configuration Options-Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPOpenForum.html\">Open Forum </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FieldDataCollection.html\">Field Data Collection In Field Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecosystem.html\">Intro into the Field Inspection Ecosystem Module </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Introduction to FieldPro Stake </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FaultCurrent.html\">Acquiring &amp; Using Fault Currents and Demand KW in Futura </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CATALYST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">Report IQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dashboard.html\">Dashboard Planning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Catalys.html\">Catalyst Configuration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">IQ and how it relates to the Futura Database</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"VisualInspections.html\">Visualizing Inspections with Catalyst IQ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">HOME</a></li>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -5891,96 +5801,6 @@
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#707070"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#828181!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#8a8989"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-ab",
-          "_params": {
-            "bgColor": "#8a8989",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPENING SESSION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PPP.html\">Peak Pressure Performance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPSWORLD.html\">GPS World</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">FieldPro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Work Force &amp; FieldPro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MAPPING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewinMapping.html\">What's New in GIS 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Validations.html\">Validation &amp; Its Importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SupportIssues.html\">Most commonly reported Support Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MAPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MapServices.html\">Map Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ServerArchitecture.html\">Server Architecture</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STAKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WhatsNewStaking.html\">Intro to Stake 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricks.html\">Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OHWKPLAN.html\">OH WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UGWKPLAN.html\">UG WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"StakingAndWKManage.html\">Staking Work Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OpenForum.html\">Open Forum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewOMS.html\">What's New - OMS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FuturaIVR.html\">Futura IVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tips &amp; Tricks  Hidden Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ClientMonitor.html\">OMS Client Monitor </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PingDialog.html\">Ping Dialog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OMSOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"InfoInOut.html\">Outage                  Info In/Info Out</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIELD PRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPBasic.html\">FieldPro Basic </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthoringFP.html\">Authoring FieldPro Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PHOTOS.html\">Managing Photos </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Offline Imagery &amp; Google Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspections.html\">Inspections in Depth-Configuration Options-Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPOpenForum.html\">Open Forum </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FieldDataCollection.html\">Field Data Collection In Field Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecosystem.html\">Intro into the Field Inspection Ecosystem Module </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Introduction to FieldPro Stake </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FaultCurrent.html\">Acquiring &amp; Using Fault Currents and Demand KW in Futura </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CATALYST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">Report IQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dashboard.html\">Dashboard Planning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Catalys.html\">Catalyst Configuration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">IQ and how it relates to the Futura Database</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"VisualInspections.html\">Visualizing Inspections with Catalyst IQ</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">HOME</a></li>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -6022,7 +5842,7 @@
           "_name": "extCountdown1",
           "_anchor": "extCountdown1-ad",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": false,
@@ -6054,7 +5874,7 @@
           "_anchor": "msg-box8-ae",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-27-2000x1333.jpg",
