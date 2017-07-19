@@ -458,7 +458,7 @@
               "size": 250
             }
           },
-          "title": "What's New In 3.3",
+          "title": "What's New In Staking 3.3",
           "text": "A class created by stakers, for stakers. This class reviews the basic tools and concepts used for staking jobs in our software. For audience members who are already familiar with Futura Stake, we will highlight the differences between previous versions and 3.3.1.<br>By: Drew Henry &amp; Jessica Su",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
@@ -873,8 +873,8 @@
               "size": 250
             }
           },
-          "title": "What's New In 3.3",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Scott Thomas &amp; Sherri Schreiner",
+          "title": "What's New In GIS 3.3",
+          "text": "In “What’s new in GIS 3.3” we’ll be covering enhancements that’ve been made to Futura GIS. This presentation specifically deals with mapping along with its related tools and functions. <br>By: Scott Thomas &amp; Sherri Schreiner",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -1703,7 +1703,7 @@
               "size": 250
             }
           },
-          "title": "What's New In 3.3",
+          "title": "What's New In OMS 3.3",
           "text": "Overview of new features in the latest version of OMS. We will cover enhancements to performance and appearances, including the right click menu and new ping dialog. Also, a few changes under the hood that improve refresh rate and speed in the map.<br>By: Joseph Coleman",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
@@ -3663,7 +3663,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"NewinMapping.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "What's New In 3.3",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Scott Thomas &amp; Sherri Schreiner</div>"
+          "text": "In “What’s new in GIS 3.3” we’ll be covering enhancements that’ve been made to Futura GIS. This presentation specifically deals with mapping along with its related tools and functions.&nbsp;<br><div>By: Scott Thomas &amp; Sherri Schreiner</div>"
         },
         {
           "_styles": {
