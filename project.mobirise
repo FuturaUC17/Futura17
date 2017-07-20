@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "index.html",
+    "currentPage": "GPSWORLD.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1362,7 +1362,7 @@
           },
           "_anchor": "header2-5j",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "31",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
@@ -1385,7 +1385,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-erik-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/eric-gakstatter-headshot-webinar-1400x1729.jpg",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -1448,7 +1448,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vgg4hp-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-35-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1456,7 +1456,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -1468,7 +1468,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
+              "src": "@PROJECT_PATH@/assets/images/81513ysbf4l-2-1400x879.jpg",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -1487,7 +1487,7 @@
             }
           },
           "title": "Peak Pressure Performance",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br><br>By:&nbsp;Bill Driscoll",
+          "text": "Navy Ace and former TOPGUN instructor Bill Driscoll demonstrates how his own life-or-death aerial dogfights – and the preparation for them - can help guide high-risk corporate decisions<br><br>- Ace fighter pilot’s formula for performing at your best, no matter what;<br>- Three keys to training the most effective teams for times of greatest pressure;<br>- How the great combat leaders lead;<br>- The Ace fighter pilots' secrets for living a more balanced, productive and happy life.<br><a href=\"http://www.willydriscoll.com/about.html\">www.willydriscoll.com</a><br><br><br>By:&nbsp;Bill Driscoll",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
