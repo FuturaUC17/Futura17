@@ -156,7 +156,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/webmaybe-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aqua-indigo-1-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -164,7 +164,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -1365,7 +1365,7 @@
             "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-2-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1373,7 +1373,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -1385,7 +1385,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/futuraflatwhite.svg",
+              "src": "@PROJECT_PATH@/assets/images/-erik-1400x1400.jpg",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -1404,7 +1404,7 @@
             }
           },
           "title": "GPS World",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br><br>By:&nbsp;Eric Gakstatter<br><br>",
+          "text": "\"Field data collection and mapping is booming in many industrial, business, defense and other organizational workflows. The demand for accuracy and data richness constantly increases, and the frontiers for mapping and navigation are steadily pushing outward through all types of obstructed environments — or inward. These new positioning challenges are met by a range of sensors complementing GNSS: laser range-finders, inertial measurement units, cameras of various kinds and more.\"&nbsp;<br><i>GPS World Magazine</i><br><br>By:&nbsp;Eric Gakstatter<br>GNSS Consultant<br>Contributing Editor to GPS World magazine<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
