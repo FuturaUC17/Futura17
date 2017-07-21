@@ -3903,7 +3903,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"TipsTricks.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Tips &amp; Tricks",
-          "text": "Thursday 9:00 - 9:45 / Trippe 2&amp;3<div>By: Jody Picou &amp; Brant Hood</div>"
+          "text": "<i>Thursday 9:00 - 9:45 / Trippe 2&amp;3</i><div>By: Jody Picou &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -3942,7 +3942,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"UGWKPLAN.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "UG Work Plan Jobs",
-          "text": "Thursday 3:00 - 3:45 / Trippe 2&amp;3<br>By: Drew Henry&nbsp;"
+          "text": "<i>Thursday 3:00 - 3:45 / Trippe 2&amp;3</i><br>By: Drew Henry&nbsp;"
         },
         {
           "_styles": {
@@ -3981,7 +3981,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OHWKPLAN.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "OH Work Plan Jobs",
-          "text": "Thursday 11:00 - 11:45 / Trippe 2&amp;3<div>By: Jody Picou &amp; Brant Hood</div>"
+          "text": "<i>Thursday 11:00 - 11:45 / Trippe 2&amp;3</i><div>By: Jody Picou &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -4020,7 +4020,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingAndWKManage.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Staking &amp; Work Management",
-          "text": "Thursday 1:00 - 1:45 / Trippe 2&amp;3<div>By: Jessica Su &amp; Brant Hood</div>"
+          "text": "<i>Thursday 1:00 - 1:45 / Trippe 2&amp;3</i><div>By: Jessica Su &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -4059,7 +4059,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Open Forum",
-          "text": "Thursday 4:00 - 4:45 / Trippe 2&amp;3<div>By: Brant, Jody, Drew &amp; Jessica</div>"
+          "text": "<i>Thursday 4:00 - 4:45 / Trippe 2&amp;3</i><div>By: Brant, Jody, Drew &amp; Jessica</div>"
         },
         {
           "_tags": [
