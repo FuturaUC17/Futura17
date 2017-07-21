@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "GPSWORLD.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 379,
+    "uniqCompNum": 380,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1385,7 +1385,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/eric-gakstatter-headshot-webinar-1400x1729.jpg",
+              "src": "@PROJECT_PATH@/assets/images/header-logo-1400x631.png",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -1461,7 +1461,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
           "media": {
@@ -1487,7 +1487,7 @@
             }
           },
           "title": "Peak Pressure Performance",
-          "text": "Navy Ace and former TOPGUN instructor Bill Driscoll demonstrates how his own life-or-death aerial dogfights – and the preparation for them - can help guide high-risk corporate decisions<br><br>- Ace fighter pilot’s formula for performing at your best, no matter what;<br>- Three keys to training the most effective teams for times of greatest pressure;<br>- How the great combat leaders lead;<br>- The Ace fighter pilots' secrets for living a more balanced, productive and happy life.<br><a href=\"http://www.willydriscoll.com/about.html\">www.willydriscoll.com</a><br><br><br>By:&nbsp;Bill Driscoll",
+          "text": "Navy Ace and former TOPGUN instructor Bill Driscoll demonstrates how his own life-or-death aerial dogfights – and the preparation for them - can help guide high-risk corporate decisions<br><br>- Ace fighter pilot’s formula for performing at your best, no matter what;<br>- Three keys to training the most effective teams for times of greatest pressure;<br>- How the great combat leaders lead;<br>- The Ace fighter pilots' secrets for living a more balanced, productive and happy life.<br><a href=\"http://www.willydriscoll.com/about.html\">www.willydriscoll.com</a><br><br>By:&nbsp;Bill Driscoll",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3316,11 +3316,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MobileWorkforce.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Mobile Workforce &amp; Field Pro",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
+          "text": "<div><i>Wednesday 1:00 - 1:45 / Windsor</i></div><div>By: Doug Malinowski</div>"
         },
         {
           "_styles": {
@@ -3358,11 +3358,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPSTAKE.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Field Pro Stake",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski &amp; Brant Hood</div>"
+          "text": "<i>Wednesday 11:00 - 12:00 / Windsor</i><br><i>By: Doug Malinowski</i>"
         },
         {
           "_styles": {
@@ -3397,11 +3397,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"GPSWORLD.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "GPS World",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By:&nbsp;Eric Gakstatter</div>"
+          "text": "<i>Wednesday 10:30 - 11:00 / Windsor</i><div>By:&nbsp;Eric Gakstatter</div>"
         },
         {
           "_styles": {
@@ -3436,11 +3436,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"PPP.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Peak Pressure Performance",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By:&nbsp;Bill Driscoll</div>"
+          "text": "<i>Wednesday 9:30 - 10:15 / Windsor</i><div>By:&nbsp;Bill Driscoll</div>"
         },
         {
           "_tags": [
@@ -3525,11 +3525,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"NewinMapping.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "What's New In 3.3",
-          "text": "In “What’s new in GIS 3.3” we’ll be covering enhancements that’ve been made to Futura GIS. This presentation specifically deals with mapping along with its related tools and functions.&nbsp;<br><div>By: Scott Thomas &amp; Sherri Schreiner</div>"
+          "text": "<i>Wednesday 2:00 - 2:45 &amp; Thursday 9:00 - 9:45 / Trippe 1</i><br><div>By: Scott Thomas &amp; Sherri Schreiner</div>"
         },
         {
           "_styles": {
@@ -3567,11 +3567,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Validations.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Validations &amp; It's Importance",
-          "text": "Maintaining the GIS database utilizing the Futura Validation tools can have effects throughout the entire suite of Futura products. This presentation will review some of the most critical validation issues, the meaning of the warnings and how to resolve them, as well as when it is recommended to run each of the various validation tasks.<div>By: Cassie Corbett</div>"
+          "text": "<i>Wednesday 3:00 - 3:45 &amp; Thursday 4:00 - 4:45 / Trippe 1</i><div>By: Cassie Corbett</div>"
         },
         {
           "_styles": {
@@ -3609,11 +3609,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"SupportIssues.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Most Commonly Reported Support Issues",
-          "text": "This class will go over some of the most common support issues that are seen on a daily basis in Mapping, Staking, FieldPro, and AutoDeployment. We will show how to resolve these issues quickly and include a flowchart handout for finding lost jobs.<div>By: Michael Christensen</div>"
+          "text": "<i>Wednesday 4:00 - 4:45 / Trippe 1</i><div>By: Michael Christensen</div>"
         },
         {
           "_styles": {
@@ -3651,11 +3651,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MAPOpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  ",
           "title": "Open Forum",
-          "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<div>By: Cassie Corbett</div>"
+          "text": "<i>Thursday 11:00 - 11:45 / Trippe 1</i><div>By: Cassie Corbett</div>"
         },
         {
           "_styles": {
@@ -3693,11 +3693,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MapServices.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Map Services",
-          "text": "Map services are utilized for Catalyst, Field Pro inspections, as well as custom applications. This presentation will show how to manage map services, the recommended best practices for publishing, and when the services need to be republished.<div>By: Travis Durrance</div>"
+          "text": "<i>Thursday 1:00 - 1:45 / Trippe 1</i><div>By: Travis Durrance</div>"
         },
         {
           "_styles": {
@@ -3735,11 +3735,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ServerArchitecture.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Server Architecture",
-          "text": "This presentation will explore how the Futura application server supports users and client applications.<div>By: Todd Payne &amp; Ryszard Tyrtania</div>"
+          "text": "<i>Thursday 1:00 - 1:45 / Trippe 1</i><div>By: Todd Payne &amp; Ryszard Tyrtania</div>"
         },
         {
           "_styles": {
@@ -3777,11 +3777,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FaultCurrent.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
+          "text": "<i>Thursday 1:00 - 1:45 / Windsor</i><div>By: Doug Malinowski</div>"
         },
         {
           "_tags": [
@@ -3860,11 +3860,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"WhatsNewStaking.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "What's New In 3.3",
-          "text": "A class created by stakers, for stakers. This class reviews the basic tools and concepts used for staking jobs in our software. For audience members who are already familiar with Futura Stake, we will highlight the differences between previous versions and 3.3.1.<div>By: Drew Henry &amp; Jessica Su</div>"
+          "text": "<i>Wednesday 3:00 - 3:45 &amp; Thursday 10:00 - 10:45 / Trippe 2&amp;3</i><div>By: Drew Henry &amp; Jessica Su</div>"
         },
         {
           "_styles": {
@@ -3899,11 +3899,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"TipsTricks.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Tips &amp; Tricks",
-          "text": "This class will be geared towards anyone who is using or considering using Futura Staking. We will go over a variety of different ways to make your Staking more effcient.<div>By: Jody Picou &amp; Brant Hood</div>"
+          "text": "Thursday 9:00 - 9:45 / Trippe 2&amp;3<div>By: Jody Picou &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -3938,11 +3938,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"UGWKPLAN.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "UG Work Plan Jobs",
-          "text": "One of our stakers will be demonstrating an advanced underground design. Any stakers interested in learning more about using Favorites, staking Open Points, using the Offset tool to stake underground conductors, and drawing a large job in a short amount of time will benefit from this class.<br>By: Drew Henry&nbsp;"
+          "text": "Thursday 3:00 - 3:45 / Trippe 2&amp;3<br>By: Drew Henry&nbsp;"
         },
         {
           "_styles": {
@@ -3977,11 +3977,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OHWKPLAN.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "OH Work Plan Jobs",
-          "text": "Another of our stakers will be demonstrating an advanced overhead job consisting of rerouting, rephasing and resizing of existing lines. This class will focus on how to handle a mine field of complex design challenges in Futura's staking application.<div>By: Jody Picou &amp; Brant Hood</div>"
+          "text": "Thursday 11:00 - 11:45 / Trippe 2&amp;3<div>By: Jody Picou &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -4016,11 +4016,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingAndWKManage.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Staking &amp; Work Management",
-          "text": "Managers and supervisors will enjoy this class. In this class we are showcasing the enhancements made between Futura Stake 3.3.1 and SEDC’s v37 UPN and Work Management. The audience will discover new potential workflows and many new features.<div>By: Drew Henry &amp; Jessica Su</div>"
+          "text": "Thursday 1:00 - 1:45 / Trippe 2&amp;3<div>By: Jessica Su &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -4055,11 +4055,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Open Forum",
-          "text": "For stakers and supervisors alike. In this session, Futura professionals will answer questions submitted by stakers from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<div>By: Brant, Jody, Drew &amp; Jessica</div>"
+          "text": "Thursday 4:00 - 4:45 / Trippe 2&amp;3<div>By: Brant, Jody, Drew &amp; Jessica</div>"
         },
         {
           "_tags": [
@@ -4141,11 +4141,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"NewOMS.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "What's New In 3.3",
-          "text": "Overview of new features in the latest version of OMS. We will cover enhancements to performance and appearances, including the right click menu and new ping dialog. Also, a few changes under the hood that improve refresh rate and speed in the map.<div>By: Joseph Coleman</div>"
+          "text": "Wednesday 2:00 - 2:45 &amp; Thursday 11:00 - 11:45 &nbsp;/ Hope 1&amp;2<div>By: Joseph Coleman</div>"
         },
         {
           "_styles": {
@@ -4180,11 +4180,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FuturaIVR.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Futura IVR",
-          "text": "Futura IVR from the ground up. This class will cover everything you need to know about implementing AutoCue and Futura IVR. The audience will learn the back end requirements, system architecture, and how things interact. We’ll follow everything up to the Futura OMS Client side!<div>By: Hunter Guckert</div>"
+          "text": "Wednesday 4:00 - 4:45 / Hope 1&amp;2<div>By: Hunter Guckert</div>"
         },
         {
           "_styles": {
@@ -4219,11 +4219,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"TipsTricksHiddenTools.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Tips &amp; Tricks / Hidden Tools",
-          "text": "What are all of the often overlooked little secrets within OMS and how to leverage them to increase your efficiency with OMS and how it interacts with the rest of you utility. The audience will get some old and some new ideas to help make OMS work better for them and their business process.<div>By: Don Vick</div>"
+          "text": "Thursday 9:00 - 9:45 / Hope 1&amp;2<br><div>By: Don Vick</div>"
         },
         {
           "_styles": {
@@ -4258,11 +4258,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ClientMonitor.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "OMS Client Monitor",
-          "text": "This is a new tool for the OMS Administrators to use to control connected OMS Clients, the FieldProOMS Client and to view general metrics about each client connected to the OMS Server. We will also take a more deep dive in to freely available tools to use in conjunction with the OMS Client Monitor to help diagnose networking and hardware issues.<div>By: Don Vick</div>"
+          "text": "Thursday 1:00 - 1:45 / Hope 1&amp;2<div>By: Don Vick</div>"
         },
         {
           "_styles": {
@@ -4297,11 +4297,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"PingDialog.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Ping Dialog",
-          "text": "A more in-depth view of the New Ping Interface in OMS. The all-in-one interface for all clients utilizing AMI integration within OMS. We will also demonstrate just how the ping dialog works from the map and case ticket views.<div>By: Joseph Coleman</div>"
+          "text": "Thursdday 2:00 - 2:45 / Hope 1&amp;2<div>By: Joseph Coleman</div>"
         },
         {
           "_styles": {
@@ -4336,11 +4336,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Open Forum",
-          "text": "For dispatchers and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<div>By: Don, Joseph &amp; Hunter</div>"
+          "text": "Thursday 3:00 - 3:45 / Hope 1&amp;2<br><div>By: Don, Joseph &amp; Hunter</div>"
         },
         {
           "_styles": {
@@ -4375,11 +4375,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"InfoInOut.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Outage Info In / Info Out",
-          "text": "Placing outages IN and getting outage alerts OUT of your OMS. This class will focus on two new features in OMS, outage reporting from OMSWebMap and new Outage Alerts from OMS. The audience will learn about these applications and how to apply them to their utility.<div>By: Hunter Guckert</div>"
+          "text": "Thursday 4:00 - 4:45 / Hope 1&amp;2<div>By: Hunter Guckert</div>"
         },
         {
           "_tags": [
@@ -4461,11 +4461,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPBasic.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "FieldPro Basic",
-          "text": "Considering a mobile map viewer? Check out this in depth demonstration of FieldPro Basic from the user’s perspective and see the advantages of incorporating an advanced mobile solution into your technical arsenal.<div>By: Josh Coleman</div>"
+          "text": "<i>Wednesday 2:00 - 2:45 &amp; Thursday 4:00 - 4:45 / Hope 3</i><div>By: Josh Coleman</div>"
         },
         {
           "_styles": {
@@ -4500,11 +4500,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"AuthoringFP.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Authoring FieldPro Maps",
-          "text": "Are you a GIS administrator who wants to get the most out of FieldPro? Join us for a deep dive into creating maps and we’ll show you how to tackle issues like complex symbolgy, hiding sensitive fields, and creating new searches.<div>By: Josh Coleman</div>"
+          "text": "<i>Wednesday 3:00 - 3:45 &amp; Thursday 10:00 - 10:45 / Hope 3</i><div>By: Josh Coleman</div>"
         },
         {
           "_styles": {
@@ -4539,11 +4539,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"PHOTOS.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Managing Photos",
-          "text": "Taking photos with your inspections and not sure what to do with them? Discover how photos work in FieldPro and learn where they’re stored in your database, how to export them to standard formats, and view them as hyperlinks directly from your iPad.<div>By: AJ Cerilli</div>"
+          "text": "<i>Wednesday 4:00 - 4:45 / Hope 3</i><div>By: AJ Cerilli</div>"
         },
         {
           "_styles": {
@@ -4578,11 +4578,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OfflineImagery.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Offline Imagery &amp; Google Maps",
-          "text": "Interested in getting more out of FieldPro while you’re offline? Learn how to create tile packages and load them into FieldPro so you have constant access to your imagery in the field. We’ll also show you how to switch to Google maps and use service areas for offline navigation.<div>By: AJ Cerilli</div>"
+          "text": "<i>Thursday 9:00 - 9:45 / Hope 3</i><div>By: AJ Cerilli</div>"
         },
         {
           "_styles": {
@@ -4617,11 +4617,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Inspections.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Inspections In Depth",
-          "text": "Seeking a better solution to meet your inspection needs? Explore the FieldPro Inspection Module and learn advanced configuration options to get more of out your inspection program. (Dependant Values, Jump To, Required Fields)<div>By: AJ Cerilli</div>"
+          "text": "<i>Thursday 1:00 1:45 / Hope 3</i><div>By: AJ Cerilli</div>"
         },
         {
           "_styles": {
@@ -4656,11 +4656,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPOpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Open Forum",
-          "text": "For users and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<div>By: Nick, AJ &amp; Josh</div>"
+          "text": "<i>Thursday 2:00 - 2:45 / Hope 3</i><div>By: Nick, AJ &amp; Josh</div>"
         },
         {
           "_styles": {
@@ -4695,11 +4695,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FPSTAKE.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Introduction To FieldPro Stake",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski &amp; Brant Hood</div>"
+          "text": "<i>Wednesday 11:00 - 12:00 &nbsp;&amp; Thursday 10:00 - 10:45 &nbsp;/ Windsor</i>&nbsp;<div>By: Doug Malinowski &amp; Brant Hood</div>"
         },
         {
           "_styles": {
@@ -4734,11 +4734,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Ecosystem.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "FieldPro Inspection Ecosystem&nbsp;",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
+          "text": "<i>Thursday 11:00 - 11:45 / Windsor</i><div>By: Doug Malinowski</div>"
         },
         {
           "_styles": {
@@ -4773,11 +4773,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldDataCollection.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Field Data Collection In FieldPro",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<div>By: Doug Malinowski</div>"
+          "text": "<i>Thursday 3:00 - 3:45 / Windsor</i><div>By: Doug Malinowski</div>"
         },
         {
           "_tags": [
@@ -4859,11 +4859,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Catalys.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Catalyst Configuration",
-          "text": "A detailed look into the Administrator settings that drive Catalyst. Users can expect to learn how to:<div>Administer new users, Set up roles, &nbsp;Create searches including related tables,</div><div>Build a new query in the Custom Widget category, Add a hyperlink to a field,</div><div>Add and modify symbology and display fields, &nbsp;Add a new map layer</div><div>By: Travis Rushton</div>"
+          "text": "<i>Wednesday 4:00 - 4:45 / Trippe 2/3</i><br><div>By: Travis Rushton</div>"
         },
         {
           "_styles": {
@@ -4898,11 +4898,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Dashboard.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Dashboard Planning",
-          "text": "How to properly organize data and outline a new dashboard. Users can expect to learn how to:<div>Create a new database link in IQ, Stage data for presentment,</div><div>Outline how the dashboard will look prior to construction,<br></div><div>Needs assessment - what problem are you trying to solve?,</div><div>Presenting a dashboard - Who will use the dashboard?,&nbsp;</div><div>What is the best way to visualize the data</div><div>By: Someone</div>"
+          "text": "<i>Wednesday 3:00 - 3:45 / Hope 1/2</i><br><div>By: Brad Mayfield</div>"
         },
         {
           "_styles": {
@@ -4937,11 +4937,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"IQ.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "IQ &amp; How it relates to the Futura Database",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Someone"
+          "text": "<i>Thursday 10:00 - 10:45 / Trippe 1</i><br>By: Adam Dinges"
         },
         {
           "_styles": {
@@ -4976,11 +4976,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"VisualInspections.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Visualizing Inspections with Catalyst IQ",
-          "text": "Using Catalyst to display and track inspection projects. Users can expect to learn how to:<div>How to create a point and line feature service and publish to Catalyst</div><div>Best practice to symbolize and what fields to use&nbsp;</div><div>Data flow between Field Pro and Catalyst</div><div>Inspection template samples used in IQ</div><div>Best practice to filter, track, and report</div><div>Difference between showing feature service data vs adding the Construction Widget</div><div>By: Travis Rushton</div>"
+          "text": "<i>Thursday 2:00 - 2:45 / Windsor</i><br><div>By: Travis Rushton</div>"
         },
         {
           "_styles": {
@@ -5015,11 +5015,11 @@
             "inverse": false,
             "showButtons": true,
             "showTitle": true,
-            "showText": false
+            "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Applying Analytics",
-          "text": "Report IQ<div>Full screen intro with parallax image background and color overlay and a picture on right.</div><div>By: Adam Dinges</div>"
+          "text": "Wednesday 2:00 - 2:45<br><div>By: Adam Dinges</div>"
         },
         {
           "_tags": [
