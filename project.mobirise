@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ConferenceTipsTricks",
-    "currentPage": "TipsTricks.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -243,7 +243,7 @@
           },
           "title": "Tips &amp; Tricks",
           "text": "This class will be geared towards anyone who is using or considering using Futura Staking. We will go over a variety of different ways to make your Staking more effcient.<br><br>By: Jody Picou &amp; Brant Hood&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/wTuu111uH5ZP0t\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; SUBMIT QUESTION &nbsp;&nbsp;</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"StakingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; SUBMIT QUESTION &nbsp;&nbsp;</a> "
         },
         {
           "_tags": [
@@ -1652,7 +1652,7 @@
               "size": 250
             }
           },
-          "title": "Futura IVR",
+          "title": "FuturaIVR / AutoCue",
           "text": "Futura IVR from the ground up.  This class will cover everything you need to know about implementing AutoCue and Futura IVR.  The audience will learn the back end requirements, system architecture, and how things interact.  We’ll follow everything up to the Futura OMS Client side!<br><br>By: Hunter Guckert",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
