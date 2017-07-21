@@ -4145,7 +4145,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"NewOMS.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "What's New In 3.3",
-          "text": "Wednesday 2:00 - 2:45 &amp; Thursday 11:00 - 11:45 &nbsp;/ Hope 1&amp;2<div>By: Joseph Coleman</div>"
+          "text": "<i>Wednesday 2:00 - 2:45 &amp; Thursday 11:00 - 11:45 &nbsp;/ Hope 1&amp;2</i><div>By: Joseph Coleman</div>"
         },
         {
           "_styles": {
@@ -4184,7 +4184,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FuturaIVR.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Futura IVR",
-          "text": "Wednesday 4:00 - 4:45 / Hope 1&amp;2<div>By: Hunter Guckert</div>"
+          "text": "<i>Wednesday 4:00 - 4:45 / Hope 1&amp;2</i><div>By: Hunter Guckert</div>"
         },
         {
           "_styles": {
@@ -4223,7 +4223,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"TipsTricksHiddenTools.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Tips &amp; Tricks / Hidden Tools",
-          "text": "Thursday 9:00 - 9:45 / Hope 1&amp;2<br><div>By: Don Vick</div>"
+          "text": "<i>Thursday 9:00 - 9:45 / Hope 1&amp;2</i><br><div>By: Don Vick</div>"
         },
         {
           "_styles": {
@@ -4262,7 +4262,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ClientMonitor.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "OMS Client Monitor",
-          "text": "Thursday 1:00 - 1:45 / Hope 1&amp;2<div>By: Don Vick</div>"
+          "text": "<i>Thursday 1:00 - 1:45 / Hope 1&amp;2</i><div>By: Don Vick</div>"
         },
         {
           "_styles": {
@@ -4301,7 +4301,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"PingDialog.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Ping Dialog",
-          "text": "Thursdday 2:00 - 2:45 / Hope 1&amp;2<div>By: Joseph Coleman</div>"
+          "text": "<i>Thursdday 2:00 - 2:45 / Hope 1&amp;2</i><div>By: Joseph Coleman</div>"
         },
         {
           "_styles": {
@@ -4340,7 +4340,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OMSOpenForum.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Open Forum",
-          "text": "Thursday 3:00 - 3:45 / Hope 1&amp;2<br><div>By: Don, Joseph &amp; Hunter</div>"
+          "text": "<i>Thursday 3:00 - 3:45 / Hope 1&amp;2</i><br><div>By: Don, Joseph &amp; Hunter</div>"
         },
         {
           "_styles": {
@@ -4379,7 +4379,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"InfoInOut.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Outage Info In / Info Out",
-          "text": "Thursday 4:00 - 4:45 / Hope 1&amp;2<div>By: Hunter Guckert</div>"
+          "text": "<i>Thursday 4:00 - 4:45 / Hope 1&amp;2</i><div>By: Hunter Guckert</div>"
         },
         {
           "_tags": [
