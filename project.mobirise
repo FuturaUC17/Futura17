@@ -1322,7 +1322,7 @@
           },
           "title": "Applying Analytics",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br><br>By: Adam Dinges",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2650,7 +2650,7 @@
           },
           "title": "Introduction To Field Pro Stake",
           "text": "This will be an introduction to our new FP Stake application as well as it's integration with our Futura Stake desktop application.<br><br>By: Doug Malinowski",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\" https://www.slideshare.net/secret/1wbbOb5x0tsXrP\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\" https://www.slideshare.net/secret/1wbbOb5x0tsXrP\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
