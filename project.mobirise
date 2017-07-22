@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 384,
+    "uniqCompNum": 385,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -990,7 +990,7 @@
           },
           "title": "Open Forum",
           "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br><br>By: Cassie Corbett",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpenForumLanding.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -1238,7 +1238,7 @@
             }
           },
           "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br><br>By: Doug Malinowski",
+          "text": "- Ability to utilize fault currents – Fault Finder<br><br>- Ability to access 12 month Usage data<br><br>- Perform network trace tasks and display connected KW, total meters, by phase, total kva, etc<br><br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/DZLQeH5HXW2UlD\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3233,7 +3233,7 @@
             }
           },
           "title": "Mobile Workforce &amp; FieldPro",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.<br>By: Doug Malinowski",
+          "text": "We will be discussing some of the key features such as:<br> CIS Integration, One mobile mapping app and the ability to create System Improvement Service Orders.<br> Mobile Workforce dispatch client is key component module to the Indigo suite of solutions.<br><br>By: Doug Malinowski",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/cTgiSamI2GZdRo\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FieldProOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -3742,48 +3742,6 @@
           "text": "<i>Thursday 1:00 - 1:45 / Trippe 1</i><div>By: Todd Payne &amp; Ryszard Tyrtania</div>"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-76",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#224687",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FaultCurrent.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
-          "text": "<i>Thursday 1:00 - 1:45 / Windsor</i><div>By: Doug Malinowski</div>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -3792,7 +3750,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "bgColor": "#224687"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "
         }
@@ -4780,6 +4738,45 @@
           "text": "<i>Thursday 3:00 - 3:45 / Windsor</i><div>By: Doug Malinowski</div>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-ao",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"FaultCurrent.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "title": "Using Fault Currents, AMI KW &amp; Usage Data into FieldPro",
+          "text": "Thursday 1:00 - 1:45 / Wondsor<br>By: Doug Malinowski"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4788,7 +4785,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "bgColor": "#224687"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "
         }
@@ -5326,7 +5323,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Field Pro Questions",
+          "title": "FieldPro Questions",
           "subtitle": "Please submit your question here",
           "form": {
             "action": "NicholasG@futuragis.com",
@@ -5797,8 +5794,8 @@
           "_name": "header3",
           "_anchor": "header3-an",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000",
             "showMeta": false
           },
@@ -5883,8 +5880,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-am",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> "

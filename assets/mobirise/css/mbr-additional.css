@@ -1183,16 +1183,6 @@ h6,
 #msg-box2-75 .btn {
   font-size: 12px;
 }
-#msg-box2-76 .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
-}
-#msg-box2-76 .mbr-section-subtitle {
-  color: #ffffff;
-}
-#msg-box2-76 .btn {
-  font-size: 12px;
-}
 #header3-7f .mbr-section-title,
 #header3-7f .mbr-section-subtitle {
   text-align: center;
@@ -1372,6 +1362,13 @@ h6,
   font-size: 36px;
 }
 #msg-box2-82 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#msg-box2-ao .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+}
+#msg-box2-ao .mbr-section-subtitle {
   color: #ffffff;
 }
 
