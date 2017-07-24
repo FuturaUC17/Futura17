@@ -15590,7 +15590,7 @@
           },
           "title": "Cyber Security",
           "text": "<br>By: Greg Gray",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/CJm0Rs2PRAodlI\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px"
