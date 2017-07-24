@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -707,7 +708,7 @@ h6,
 #ext_menu-8l .navbar-caption {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 #ext_menu-8l .navbar-toggler {
   color: #ffffff;
@@ -719,6 +720,7 @@ h6,
 #ext_menu-8l .link,
 #ext_menu-8l .dropdown-item {
   color: #ffffff;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-8l .link {
   font-size: 0.95rem;

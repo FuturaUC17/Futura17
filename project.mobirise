@@ -56,7 +56,7 @@
               "color": "#ffffff",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
+              "font-size": "18px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -65,7 +65,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -104,7 +106,11 @@
           "_params": {
             "bgColor": "#8a8989",
             "fontSize": "0.95",
-            "fontName": {},
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
@@ -131,7 +137,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://conference.futuragis.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FUTURA 17</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OPENING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PPP.html\">Peak Pressure Performance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPSWORLD.html\">GPS World</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">FieldPro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Work Force &amp; FieldPro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MAPPING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewinMapping.html\">What's New in GIS 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Validations.html\">Validation &amp; Its Importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SupportIssues.html\">Most commonly reported Support Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MAPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MapServices.html\">Map Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ServerArchitecture.html\">Server Architecture</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STAKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WhatsNewStaking.html\">Intro to Stake 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricks.html\">Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OHWKPLAN.html\">OH WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UGWKPLAN.html\">UG WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"StakingAndWKManage.html\">Staking Work Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OpenForum.html\">Open Forum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewOMS.html\">What's New - OMS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FuturaIVR.html\">Futura IVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricksHiddenTools.html\">Tips &amp; Tricks  Hidden Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ClientMonitor.html\">OMS Client Monitor </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PingDialog.html\">Ping Dialog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OMSOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"InfoInOut.html\">Outage                  Info In/Info Out</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIELD PRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPBasic.html\">FieldPro Basic </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthoringFP.html\">Authoring FieldPro Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PHOTOS.html\">Managing Photos </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Offline Imagery &amp; Google Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspections.html\">Inspections in Depth-Configuration Options-Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPOpenForum.html\">Open Forum </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FieldDataCollection.html\">Field Data Collection In Field Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecosystem.html\">Intro into the Field Inspection Ecosystem Module </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Introduction to FieldPro Stake </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FaultCurrent.html\">Acquiring &amp; Using Fault Currents and Demand KW in Futura </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CATALYST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">Report IQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dashboard.html\">Dashboard Planning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Catalys.html\">Catalyst Configuration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">IQ and how it relates to the Futura Database</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"VisualInspections.html\">Visualizing Inspections with Catalyst IQ</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CLIENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CookeCounty.html\">Catalyst IQ at Cooke County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CyberSecurity.html\">Cyber Security</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">HOME</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OPENING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PPP.html\">Peak Pressure Performance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GPSWORLD.html\">GPS World</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">FieldPro Stake</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MobileWorkforce.html\">Mobile Work Force &amp; FieldPro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MAPPING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewinMapping.html\">What's New in GIS 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Validations.html\">Validation &amp; Its Importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SupportIssues.html\">Most commonly reported Support Issues</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MAPOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MapServices.html\">Map Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ServerArchitecture.html\">Server Architecture</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STAKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WhatsNewStaking.html\">Intro to Stake 3.3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricks.html\">Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OHWKPLAN.html\">OH WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UGWKPLAN.html\">UG WorkPlan Jobs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"StakingAndWKManage.html\">Staking Work Management</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OpenForum.html\">Open Forum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"NewOMS.html\">What's New - OMS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FuturaIVR.html\">Futura IVR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TipsTricksHiddenTools.html\">Tips &amp; Tricks  Hidden Tools</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ClientMonitor.html\">OMS Client Monitor </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PingDialog.html\">Ping Dialog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"OMSOpenForum.html\">Open Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"InfoInOut.html\">Outage                  Info In/Info Out</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIELD PRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPBasic.html\">FieldPro Basic </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AuthoringFP.html\">Authoring FieldPro Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PHOTOS.html\">Managing Photos </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Offline Imagery &amp; Google Maps </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Inspections.html\">Inspections in Depth-Configuration Options-Tips &amp; Tricks </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPOpenForum.html\">Open Forum </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FieldDataCollection.html\">Field Data Collection In Field Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecosystem.html\">Intro into the Field Inspection Ecosystem Module </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FPSTAKE.html\">Introduction to FieldPro Stake </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FaultCurrent.html\">Acquiring &amp; Using Fault Currents and Demand KW in Futura </a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CATALYST</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">Report IQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dashboard.html\">Dashboard Planning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Catalys.html\">Catalyst Configuration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IQ.html\">IQ and how it relates to the Futura Database</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"VisualInspections.html\">Visualizing Inspections with Catalyst IQ</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CLIENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CookeCounty.html\">Catalyst IQ at Cooke County</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CyberSecurity.html\">Cyber Security</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">HOME</a></li>"
         },
         {
           "_tags": [
@@ -9255,7 +9261,7 @@
             }
           },
           "title": "IQ &amp; How it relates to the Futura Database",
-          "text": "<br><br>By: Adam Dinges",
+          "text": "<br><br>By: Adam Dinges &amp; Raghav Vemula",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CatalystQuestions.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
@@ -12582,7 +12588,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"IQ.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "IQ &amp; How it relates to the Futura Database",
-          "text": "<i>Thursday 10:00 - 10:45 / Trippe 1</i><br>By: Adam Dinges"
+          "text": "<i>Thursday 10:00 - 10:45 / Trippe 1</i><br>By: Adam Dinges &amp; Raghav Vemula"
         },
         {
           "_styles": {
@@ -14227,7 +14233,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Opening Session Questions",
+          "title": "Opening &amp; Client Presentation Questions",
           "subtitle": "Please submit your question here",
           "form": {
             "action": "contactrequest@futuragis.com",
@@ -15545,6 +15551,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-text": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "header2-ar",
           "_params": {
             "imageSize": "41",
@@ -15590,15 +15604,7 @@
           },
           "title": "Cyber Security",
           "text": "<br>By: Greg Gray",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/CJm0Rs2PRAodlI\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-text": {
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.slideshare.net/secret/CJm0Rs2PRAodlI\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>"
         },
         {
           "_tags": [
@@ -15718,7 +15724,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Catalyst IQ At Cooke County",
-          "text": "By: Jason Harrison"
+          "text": "<i>Thursday 3:00 / 3:45 / Trippe 1</i><br>By: Jason Harrison"
         },
         {
           "_tags": [
@@ -15746,6 +15752,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "text-align": "right"
+            }
+          },
           "_anchor": "header2-az",
           "_params": {
             "imageSize": "40",
@@ -15791,16 +15806,7 @@
           },
           "title": "Catalyst IQ At Cooke County",
           "text": "By: Jason Harrison.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>",
-          "_styles": {
-            ".mbr-section-text": {
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpeningQuestions.html\" data-toolbar=\"-mbrBtnMove\">SUBMIT QUESTION</a>"
         },
         {
           "_tags": [
