@@ -186,7 +186,8 @@
     "TipsTricks.html": {
       "settings": {
         "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "meta_descr": "Site Creator Description",
+        "order": 2
       },
       "components": [
         {
@@ -451,7 +452,8 @@
     "WhatsNewStaking.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 3
       },
       "components": [
         {
@@ -716,7 +718,8 @@
     "UGWKPLAN.html": {
       "settings": {
         "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "meta_descr": "Site Maker Description",
+        "order": 4
       },
       "components": [
         {
@@ -981,7 +984,8 @@
     "OHWKPLAN.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 5
       },
       "components": [
         {
@@ -1246,7 +1250,8 @@
     "StakingAndWKManage.html": {
       "settings": {
         "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Website Builder Description",
+        "order": 6
       },
       "components": [
         {
@@ -1511,7 +1516,8 @@
     "OpenForum.html": {
       "settings": {
         "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "meta_descr": "Web Page Generator Description",
+        "order": 7
       },
       "components": [
         {
@@ -1776,7 +1782,8 @@
     "NewinMapping.html": {
       "settings": {
         "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 8
       },
       "components": [
         {
@@ -2041,7 +2048,8 @@
     "Validations.html": {
       "settings": {
         "title": "Web Site Creator Title",
-        "meta_descr": "Web Site Creator Description"
+        "meta_descr": "Web Site Creator Description",
+        "order": 9
       },
       "components": [
         {
@@ -2306,7 +2314,8 @@
     "SupportIssues.html": {
       "settings": {
         "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "meta_descr": "Site Maker Description",
+        "order": 10
       },
       "components": [
         {
@@ -2571,7 +2580,8 @@
     "MAPOpenForum.html": {
       "settings": {
         "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": "Web Site Maker Description",
+        "order": 11
       },
       "components": [
         {
@@ -2836,7 +2846,8 @@
     "MapServices.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 12
       },
       "components": [
         {
@@ -3101,7 +3112,8 @@
     "ServerArchitecture.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 13
       },
       "components": [
         {
@@ -3366,7 +3378,8 @@
     "FaultCurrent.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 14
       },
       "components": [
         {
@@ -3631,7 +3644,8 @@
     "ReportIQ.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 15
       },
       "components": [
         {
@@ -3896,7 +3910,8 @@
     "GPSWORLD.html": {
       "settings": {
         "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 16
       },
       "components": [
         {
@@ -4161,7 +4176,8 @@
     "PPP.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 17
       },
       "components": [
         {
@@ -4426,7 +4442,8 @@
     "NewOMS.html": {
       "settings": {
         "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 18
       },
       "components": [
         {
@@ -4691,7 +4708,8 @@
     "FuturaIVR.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 19
       },
       "components": [
         {
@@ -4956,7 +4974,8 @@
     "TipsTricksHiddenTools.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 20
       },
       "components": [
         {
@@ -5221,7 +5240,8 @@
     "ClientMonitor.html": {
       "settings": {
         "title": "Web Creator Title",
-        "meta_descr": "Web Creator Description"
+        "meta_descr": "Web Creator Description",
+        "order": 21
       },
       "components": [
         {
@@ -5486,7 +5506,8 @@
     "PingDialog.html": {
       "settings": {
         "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Website Builder Description",
+        "order": 22
       },
       "components": [
         {
@@ -5751,7 +5772,8 @@
     "OMSOpenForum.html": {
       "settings": {
         "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Website Builder Description",
+        "order": 23
       },
       "components": [
         {
@@ -6016,7 +6038,8 @@
     "InfoInOut.html": {
       "settings": {
         "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Web Site Builder Description",
+        "order": 24
       },
       "components": [
         {
@@ -6281,7 +6304,8 @@
     "FPBasic.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 25
       },
       "components": [
         {
@@ -6546,7 +6570,8 @@
     "AuthoringFP.html": {
       "settings": {
         "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": "Web Site Maker Description",
+        "order": 26
       },
       "components": [
         {
@@ -6811,7 +6836,8 @@
     "PHOTOS.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 27
       },
       "components": [
         {
@@ -7076,7 +7102,8 @@
     "OfflineImagery.html": {
       "settings": {
         "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Web Site Builder Description",
+        "order": 28
       },
       "components": [
         {
@@ -7341,7 +7368,8 @@
     "Inspections.html": {
       "settings": {
         "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Website Builder Description",
+        "order": 29
       },
       "components": [
         {
@@ -7606,7 +7634,8 @@
     "FPOpenForum.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 30
       },
       "components": [
         {
@@ -7871,7 +7900,8 @@
     "FPSTAKE.html": {
       "settings": {
         "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": "Website Builder Description",
+        "order": 31
       },
       "components": [
         {
@@ -8136,7 +8166,8 @@
     "Ecosystem.html": {
       "settings": {
         "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": "Web Site Maker Description",
+        "order": 32
       },
       "components": [
         {
@@ -8401,7 +8432,8 @@
     "FieldDataCollection.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 33
       },
       "components": [
         {
@@ -8666,7 +8698,8 @@
     "Catalys.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 34
       },
       "components": [
         {
@@ -8934,7 +8967,8 @@
     "Dashboard.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 35
       },
       "components": [
         {
@@ -9199,7 +9233,8 @@
     "IQ.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 36
       },
       "components": [
         {
@@ -9464,7 +9499,8 @@
     "VisualInspections.html": {
       "settings": {
         "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "meta_descr": "Site Creator Description",
+        "order": 37
       },
       "components": [
         {
@@ -9729,7 +9765,8 @@
     "MobileWorkforce.html": {
       "settings": {
         "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "meta_descr": "Site Maker Description",
+        "order": 38
       },
       "components": [
         {
@@ -9994,7 +10031,8 @@
     "NOpenSession.html": {
       "settings": {
         "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 39
       },
       "components": [
         {
@@ -10382,7 +10420,8 @@
     "NMapping.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 40
       },
       "components": [
         {
@@ -10863,7 +10902,8 @@
     "NStaking.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 41
       },
       "components": [
         {
@@ -11323,7 +11363,8 @@
     "NOMS.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 42
       },
       "components": [
         {
@@ -11825,7 +11866,8 @@
     "NFieldPro.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 43
       },
       "components": [
         {
@@ -12444,7 +12486,8 @@
     "NCatalyst.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 44
       },
       "components": [
         {
@@ -12868,7 +12911,8 @@
     "StakingOpen.html": {
       "settings": {
         "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "meta_descr": "Site Creator Description",
+        "order": 46
       },
       "components": [
         {
@@ -13134,7 +13178,8 @@
     "MappingOpen.html": {
       "settings": {
         "title": "Web Site Maker Title",
-        "meta_descr": "Web Site Maker Description"
+        "meta_descr": "Web Site Maker Description",
+        "order": 47
       },
       "components": [
         {
@@ -13400,7 +13445,8 @@
     "OMSOpen.html": {
       "settings": {
         "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description"
+        "meta_descr": "Website Maker Description",
+        "order": 48
       },
       "components": [
         {
@@ -13666,7 +13712,8 @@
     "FieldProOpen.html": {
       "settings": {
         "title": "Web Maker Title",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": "Web Maker Description",
+        "order": 49
       },
       "components": [
         {
@@ -13932,7 +13979,8 @@
     "CatalystQuestions.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 50
       },
       "components": [
         {
@@ -14198,7 +14246,8 @@
     "OpeningQuestions.html": {
       "settings": {
         "title": "Web Page Creator Title",
-        "meta_descr": "Web Page Creator Description"
+        "meta_descr": "Web Page Creator Description",
+        "order": 51
       },
       "components": [
         {
@@ -14464,7 +14513,8 @@
     "Wednesday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 54
       },
       "components": [
         {
@@ -14766,7 +14816,8 @@
     "Thursday.html": {
       "settings": {
         "title": "Site Generator Title",
-        "meta_descr": "Site Generator Description"
+        "meta_descr": "Site Generator Description",
+        "order": 55
       },
       "components": [
         {
@@ -15064,7 +15115,8 @@
     "OpenForumLanding.html": {
       "settings": {
         "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "meta_descr": "Site Builder Description",
+        "order": 56
       },
       "components": [
         {
@@ -15361,7 +15413,8 @@
     "CyberSecurity.html": {
       "settings": {
         "title": "Web Creator Title",
-        "meta_descr": "Web Creator Description"
+        "meta_descr": "Web Creator Description",
+        "order": 52
       },
       "components": [
         {
@@ -15624,7 +15677,8 @@
     "ClientPresentations.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 45
       },
       "components": [
         {
@@ -15724,7 +15778,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"CookeCounty.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "title": "Catalyst IQ At Cooke County",
-          "text": "<i>Thursday 3:00 / 3:45 / Trippe 1</i><br><i><br></i><br>By: Jason Harrison"
+          "text": "<i>Thursday 3:00 / 3:45 / Trippe 1</i><i><br></i><br>By: Jason Harrison"
         },
         {
           "_tags": [
@@ -15744,7 +15798,8 @@
     "CookeCounty.html": {
       "settings": {
         "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 53
       },
       "components": [
         {
