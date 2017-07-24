@@ -4959,3 +4959,29 @@ h6,
 #header2-ar .mbr-section-text {
   font-size: 20px;
 }
+#header3-av .mbr-section-title,
+#header3-av .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-av H3 {
+  color: #ffffff;
+}
+#msg-box2-aw .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-aw .mbr-section-subtitle {
+  color: #ffffff;
+}
+#msg-box2-ax .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-ax .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header2-az .mbr-section-text {
+  font-size: 20px;
+}
+#header2-az .mbr-section-title {
+  font-size: 60px;
+  text-align: right;
+}
