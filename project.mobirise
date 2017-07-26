@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 397,
+    "uniqCompNum": 400,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2028,7 +2028,7 @@
           },
           "title": "What's New In GIS 3.3",
           "text": "In “What’s new in GIS 3.3” we’ll be covering enhancements that’ve been made to Futura GIS. This presentation specifically deals with mapping along with its related tools and functions. <br><br>By: Scott Thomas &amp; Sherri Schreiner",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2292,9 +2292,9 @@
               "size": 250
             }
           },
-          "title": "Validations &amp; It's Importance",
+          "title": "Validations &amp; Its Importance",
           "text": "Maintaining the GIS database utilizing the Futura Validation tools can have effects throughout the entire suite of Futura products. This presentation will review some of the most critical validation issues, the meaning of the warnings and how to resolve them, as well as when it is recommended to run each of the various validation tasks.<br><br>By: Cassie Corbett",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2560,7 +2560,7 @@
           },
           "title": "Most Commonly Reported Support Issues",
           "text": "This class will go over some of the most common support issues that are seen on a daily basis in Mapping, Staking, FieldPro, and AutoDeployment. We will show how to resolve these issues quickly and include a flowchart handout for finding lost jobs.<br><br>By: Michael Christensen",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -2826,7 +2826,7 @@
           },
           "title": "Open Forum",
           "text": "For GIS Technicians and supervisors alike. In this session, Futura professionals will answer questions submitted by users from around the country. During this forum, the answers and examples given will be very specific to each question submitted.<br><br>By: Cassie Corbett",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpenForumLanding.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"OpenForumLanding.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -3092,7 +3092,7 @@
           },
           "title": "Map Services",
           "text": "Map services are utilized for Catalyst, Field Pro inspections, as well as custom applications. This presentation will show how to manage map services, the recommended best practices for publishing, and when the services need to be republished.<br><br>By: Travis Durrance",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -3358,7 +3358,7 @@
           },
           "title": "Server Architecture",
           "text": "This presentation will explore how the Futura application server supports users and client applications.<br><br>By: Todd Payne &amp; Ryszard Tyrtania",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"MappingOpen.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">ACCESS PRESENTATION</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Mappingredo.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;SUBMIT QUESTION &nbsp;&nbsp;</a>"
         },
         {
           "_tags": [
@@ -10531,7 +10531,7 @@
             "showText": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Validations.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "title": "Validations &amp; It's Importance",
+          "title": "Validations &amp; Its Importance",
           "text": "<i>Wednesday 3:00 - 3:45 &amp; Thursday 4:00 - 4:45 / Trippe 1</i><div>By: Cassie Corbett</div>"
         },
         {
@@ -15875,6 +15875,90 @@
             "bgColor": "#fff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">CLIENT PRESENTATIONS</a>"
+        }
+      ]
+    },
+    "Mappingredo.html": {
+      "settings": {
+        "title": "Web Site Creator Title",
+        "meta_descr": "Web Site Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b2",
+          "_params": {
+            "labelsColor": "#ffffff",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/map-services-2000x1500.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Mapping Questions",
+          "subtitle": "Please submit your question here",
+          "form": {
+            "action": "cassiecorbett80@gmail.com",
+            "alerts": {
+              "success": "Thanks for submitting your question."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Utility Name or Employee Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Question"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-b3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"NMapping.html\" data-toolbar=\"-mbrBtnMove\">MAPPING</a>"
         }
       ]
     }
