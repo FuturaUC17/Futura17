@@ -13217,7 +13217,7 @@
           "title": "Mapping Questions",
           "subtitle": "Please submit your question here",
           "form": {
-            "action": "Cassiec@futuragis.com",
+            "action": "cassiec@futuragis.com",
             "alerts": {
               "success": "Thanks for submitting your question.\n\n\n\n"
             },
