@@ -3520,6 +3520,13 @@ h6,
 #msg-box2-6x .mbr-section-subtitle {
   color: #ffffff;
 }
+#msg-box2-b4 .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+}
+#msg-box2-b4 .mbr-section-subtitle {
+  color: #ffffff;
+}
 #extMenu1-ap .hide-buttons .nav-btn {
   display: none !important;
 }
